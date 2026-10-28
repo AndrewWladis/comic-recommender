@@ -1,0 +1,551 @@
+id,title,publisher,line,start_year,end_year,writers,artists,central_characters,issue_count,issue_count_basis
+dc-watchmen,Watchmen,DC,Standalone,1986,1987,Alan Moore,Dave Gibbons,"Watchmen; Doctor Manhattan; Rorschach; Ozymandias",12,exact
+dc-dark-knight-returns,The Dark Knight Returns,DC,Elseworlds,1986,1986,Frank Miller,"Frank Miller; Klaus Janson",Batman,4,exact
+dc-batman-year-one,Batman: Year One,DC,Mainline,1987,1987,Frank Miller,David Mazzucchelli,"Batman; James Gordon",4,exact
+dc-long-halloween,Batman: The Long Halloween,DC,Mainline,1996,1997,Jeph Loeb,Tim Sale,"Batman; Harvey Dent; James Gordon",13,exact
+dc-dark-victory,Batman: Dark Victory,DC,Mainline,1999,2000,Jeph Loeb,Tim Sale,"Batman; Robin; James Gordon",14,exact
+dc-batman-hush,Batman: Hush,DC,Mainline,2002,2003,Jeph Loeb,Jim Lee,"Batman; Catwoman; Hush",12,exact
+dc-batman-morrison,Batman by Grant Morrison,DC,Mainline,2006,2013,Grant Morrison,"Andy Kubert; Tony Daniel; Frank Quitely; Chris Burnham","Batman; Robin; Damian Wayne",52,approximate
+dc-batman-snyder,Batman by Scott Snyder and Greg Capullo,DC,Mainline,2011,2016,Scott Snyder,Greg Capullo,"Batman; Joker; Court of Owls",52,exact_core_run
+dc-batman-robin-tomasi,Batman and Robin by Peter J. Tomasi and Patrick Gleason,DC,Mainline,2011,2015,Peter J. Tomasi,Patrick Gleason,"Batman; Robin; Damian Wayne",40,exact_core_run
+dc-detective-tynion,Detective Comics by James Tynion IV,DC,Mainline,2016,2018,James Tynion IV,"Eddy Barrows; Alvaro Martinez Bueno","Batman; Batwoman; Tim Drake; Cassandra Cain",48,exact_core_run
+dc-gotham-central,Gotham Central,DC,Mainline,2002,2006,"Ed Brubaker; Greg Rucka",Michael Lark,"Gotham City Police; Renee Montoya; Crispus Allen",40,exact
+dc-catwoman-brubaker,Catwoman by Ed Brubaker,DC,Mainline,2002,2004,Ed Brubaker,"Darwyn Cooke; Cameron Stewart","Catwoman; Slam Bradley",37,approximate
+dc-batwoman-elegy,Batwoman: Elegy,DC,Mainline,2009,2010,Greg Rucka,J. H. Williams III,Batwoman,7,exact
+dc-birds-prey-simone,Birds of Prey by Gail Simone,DC,Mainline,2003,2007,Gail Simone,"Ed Benes; Joe Bennett; Nicola Scott","Oracle; Black Canary; Huntress; Birds of Prey",53,approximate
+dc-nightwing-dixon,Nightwing by Chuck Dixon,DC,Mainline,1996,2002,Chuck Dixon,"Scott McDaniel; Greg Land",Nightwing,70,approximate
+dc-nightwing-taylor,Nightwing by Tom Taylor and Bruno Redondo,DC,Mainline,2021,2024,Tom Taylor,"Bruno Redondo; Geraldo Borges",Nightwing,41,approximate
+dc-robin-dixon,Robin by Chuck Dixon,DC,Mainline,1993,2003,Chuck Dixon,"Tom Grummett; Staz Johnson; Pete Woods","Robin; Tim Drake",100,approximate
+dc-grayson,Grayson,DC,Mainline,2014,2016,"Tim Seeley; Tom King","Mikel Janin; Stephen Mooney","Dick Grayson; Spyral",20,exact
+dc-sandman,The Sandman,DC,Vertigo,1989,1996,Neil Gaiman,"Sam Kieth; Mike Dringenberg; Jill Thompson; Marc Hempel","Dream; The Endless",75,exact_core_series
+dc-animal-man-morrison,Animal Man by Grant Morrison,DC,Mainline,1988,1990,Grant Morrison,Chas Truog,Animal Man,26,exact_run
+dc-doom-patrol-morrison,Doom Patrol by Grant Morrison,DC,Vertigo,1989,1993,Grant Morrison,"Richard Case; Kelley Jones","Doom Patrol; Robotman; Crazy Jane",45,exact_run
+dc-swamp-thing-moore,Saga of the Swamp Thing by Alan Moore,DC,Vertigo,1984,1987,Alan Moore,"Stephen Bissette; John Totleben; Rick Veitch","Swamp Thing; Abby Arcane; John Constantine",45,approximate
+dc-hellblazer-ennis,Hellblazer by Garth Ennis,DC,Vertigo,1991,1994,Garth Ennis,"Will Simpson; Steve Dillon",John Constantine,43,approximate
+dc-preacher,Preacher,DC,Vertigo,1995,2000,Garth Ennis,Steve Dillon,"Jesse Custer; Tulip O'Hare; Cassidy",66,exact_core_series
+dc-y-last-man,Y: The Last Man,DC,Vertigo,2002,2008,Brian K. Vaughan,Pia Guerra,"Yorick Brown; Agent 355; Ampersand",60,exact
+dc-fables,Fables,DC,Vertigo,2002,2015,Bill Willingham,"Mark Buckingham; Steve Leialoha","Bigby Wolf; Snow White; Fabletown",150,original_series_length
+dc-100-bullets,100 Bullets,DC,Vertigo,1999,2009,Brian Azzarello,Eduardo Risso,"Agent Graves; The Minutemen",100,exact
+dc-invisibles,The Invisibles,DC,Vertigo,1994,2000,Grant Morrison,"Steve Yeowell; Phil Jimenez; Chris Weston","The Invisibles; King Mob; Lord Fanny",59,exact_across_volumes
+dc-transmetropolitan,Transmetropolitan,DC,Vertigo,1997,2002,Warren Ellis,Darick Robertson,"Spider Jerusalem; Channon Yarrow; Yelena Rossini",60,exact
+dc-planetary,Planetary,DC,WildStorm,1999,2009,Warren Ellis,John Cassaday,"Elijah Snow; Jakita Wagner; The Drummer",27,exact
+dc-authority-ellis,The Authority by Warren Ellis and Bryan Hitch,DC,WildStorm,1999,2000,Warren Ellis,Bryan Hitch,"The Authority; Jenny Sparks; Apollo; Midnighter",12,exact_run
+dc-ex-machina,Ex Machina,DC,WildStorm,2004,2010,Brian K. Vaughan,Tony Harris,"Mitchell Hundred; Kremlin; Bradbury",50,exact
+dc-sleeper,Sleeper,DC,WildStorm,2003,2005,Ed Brubaker,Sean Phillips,"Holden Carver; Tao; Miss Misery",24,two_twelve_issue_series
+dc-scalped,Scalped,DC,Vertigo,2007,2012,Jason Aaron,R. M. Guera,"Dashiell Bad Horse; Lincoln Red Crow",60,exact
+dc-sweet-tooth,Sweet Tooth,DC,Vertigo,2009,2013,Jeff Lemire,Jeff Lemire,"Gus; Jepperd",40,exact
+dc-american-vampire,American Vampire by Scott Snyder and Rafael Albuquerque,DC,Vertigo,2010,2013,Scott Snyder,Rafael Albuquerque,"Skinner Sweet; Pearl Jones",34,original_core_run
+dc-lucifer-carey,Lucifer by Mike Carey,DC,Vertigo,2000,2006,Mike Carey,"Peter Gross; Ryan Kelly",Lucifer Morningstar,75,exact
+dc-promethea,Promethea,DC,WildStorm / ABC,1999,2005,Alan Moore,J. H. Williams III,"Promethea; Sophie Bangs",32,exact
+dc-starman-robinson,Starman by James Robinson,DC,Mainline,1994,2001,James Robinson,"Tony Harris; Peter Snejbjerg","Starman; Jack Knight; The Shade",80,approximate_including_specials
+dc-jsa-johns,JSA by Geoff Johns,DC,Mainline,2000,2006,"Geoff Johns; David S. Goyer","Stephen Sadowski; Leonard Kirk; Don Kramer","Justice Society of America; Stargirl; Hawkman",81,approximate
+dc-flash-waid,The Flash by Mark Waid,DC,Mainline,1992,2000,Mark Waid,"Mike Wieringo; Oscar Jimenez; Paul Ryan","Flash; Wally West; Linda Park",68,approximate
+dc-flash-johns,The Flash by Geoff Johns,DC,Mainline,2000,2005,Geoff Johns,"Scott Kolins; Howard Porter","Flash; Wally West; The Rogues",62,approximate
+dc-green-lantern-johns,Green Lantern by Geoff Johns,DC,Mainline,2004,2013,Geoff Johns,"Ethan Van Sciver; Ivan Reis; Doug Mahnke","Green Lantern; Hal Jordan; Sinestro",,complex_cross_series_run
+dc-aquaman-johns,Aquaman by Geoff Johns,DC,Mainline,2011,2013,Geoff Johns,"Ivan Reis; Paul Pelletier","Aquaman; Mera",25,exact_run
+dc-jli-giffen,Justice League International by Giffen and DeMatteis,DC,Mainline,1987,1992,"Keith Giffen; J. M. DeMatteis","Kevin Maguire; Adam Hughes","Justice League International; Booster Gold; Blue Beetle",60,approximate
+dc-wonder-woman-perez,Wonder Woman by George Perez,DC,Mainline,1987,1992,George Perez,"George Perez; Chris Marrinan","Wonder Woman; Steve Trevor; Cheetah",62,exact_run
+dc-wonder-woman-rucka,Wonder Woman by Greg Rucka,DC,Mainline,2003,2006,Greg Rucka,"Drew Johnson; Rags Morales; Cliff Richards","Wonder Woman; Veronica Cale",32,approximate
+dc-wonder-woman-azzarello,Wonder Woman by Azzarello and Chiang,DC,Mainline,2011,2014,Brian Azzarello,Cliff Chiang,"Wonder Woman; Hera; Orion",35,exact_run
+dc-wonder-woman-historia,Wonder Woman Historia: The Amazons,DC,Black Label,2021,2023,Kelly Sue DeConnick,"Phil Jimenez; Gene Ha; Nicola Scott","Amazons; Hippolyta; Wonder Woman",3,exact
+dc-all-star-superman,All-Star Superman,DC,All-Star,2005,2008,Grant Morrison,Frank Quitely,"Superman; Lois Lane; Lex Luthor",12,exact
+dc-superman-birthright,Superman: Birthright,DC,Mainline,2003,2004,Mark Waid,Leinil Francis Yu,"Superman; Lois Lane; Lex Luthor",12,exact
+dc-superman-secret-identity,Superman: Secret Identity,DC,Elseworlds,2004,2004,Kurt Busiek,Stuart Immonen,"Clark Kent; Superman",4,exact
+dc-action-morrison,Action Comics by Grant Morrison,DC,Mainline,2011,2013,Grant Morrison,"Rags Morales; Brad Walker","Superman; Lois Lane; Lex Luthor",19,exact_run
+dc-superman-tomasi,Superman by Tomasi and Gleason,DC,Mainline,2016,2018,"Peter J. Tomasi; Patrick Gleason","Patrick Gleason; Doug Mahnke","Superman; Lois Lane; Jon Kent",45,exact_run
+dc-warworld-saga,Superman: The Warworld Saga,DC,Mainline,2021,2022,Phillip Kennedy Johnson,"Daniel Sampere; Riccardo Federici","Superman; Authority; Mongul",18,approximate_storyline
+dc-kingdom-come,Kingdom Come,DC,Elseworlds,1996,1996,Mark Waid,Alex Ross,"Superman; Batman; Wonder Woman; Justice League",4,exact
+dc-new-frontier,DC: The New Frontier,DC,Elseworlds,2004,2004,Darwyn Cooke,Darwyn Cooke,"Justice League; Flash; Green Lantern; Martian Manhunter",6,exact
+dc-mister-miracle,Mister Miracle,DC,Mainline,2017,2019,Tom King,Mitch Gerads,"Mister Miracle; Big Barda; Darkseid",12,exact
+dc-strange-adventures,Strange Adventures,DC,Black Label,2020,2021,Tom King,"Mitch Gerads; Evan Shaner","Adam Strange; Alanna Strange; Mister Terrific",12,exact
+dc-human-target,The Human Target,DC,Black Label,2021,2023,Tom King,Greg Smallwood,"Human Target; Justice League International",12,exact
+dc-supergirl-woman-tomorrow,Supergirl: Woman of Tomorrow,DC,Mainline,2021,2022,Tom King,Bilquis Evely,"Supergirl; Ruthye",8,exact
+dc-omega-men,The Omega Men,DC,Mainline,2015,2016,Tom King,Barnaby Bagenda,"Omega Men; Kyle Rayner",12,exact
+dc-far-sector,Far Sector,DC,Young Animal,2019,2021,N. K. Jemisin,Jamal Campbell,"Green Lantern; Jo Mullein",12,exact
+dc-question-oneil,The Question by Dennis O'Neil and Denys Cowan,DC,Mainline,1987,1990,Dennis O'Neil,Denys Cowan,"The Question; Vic Sage",36,exact_core_series
+dc-green-arrow-grell,Green Arrow by Mike Grell,DC,Mainline,1987,1993,Mike Grell,"Ed Hannigan; Dan Jurgens","Green Arrow; Black Canary",80,exact_run
+dc-green-arrow-lemire,Green Arrow by Lemire and Sorrentino,DC,Mainline,2013,2014,Jeff Lemire,Andrea Sorrentino,"Green Arrow; Emiko Queen; Count Vertigo",17,exact_run
+dc-suicide-squad-ostrander,Suicide Squad by John Ostrander,DC,Mainline,1987,1992,"John Ostrander; Kim Yale","Luke McDonnell; Geof Isherwood","Suicide Squad; Amanda Waller; Deadshot",66,exact_series
+dc-secret-six-simone,Secret Six by Gail Simone,DC,Mainline,2008,2011,Gail Simone,"Nicola Scott; Jim Calafiore","Secret Six; Catman; Bane; Deadshot",36,exact
+dc-checkmate-rucka,Checkmate by Greg Rucka,DC,Mainline,2006,2008,Greg Rucka,"Jesus Saiz; Joe Bennett","Checkmate; Sasha Bordeaux; Mister Terrific",31,exact
+dc-multiversity,The Multiversity,DC,Mainline,2014,2015,Grant Morrison,"Ivan Reis; Frank Quitely; Jim Lee; Cameron Stewart","DC Multiverse; Justice League",9,exact
+dc-seven-soldiers,Seven Soldiers,DC,Mainline,2005,2006,Grant Morrison,"J. H. Williams III; Simone Bianchi; Doug Mahnke; Ryan Sook","Seven Soldiers; Zatanna; Mister Miracle",30,exact_total_chapters
+dc-52,52,DC,Mainline,2006,2007,"Geoff Johns; Grant Morrison; Greg Rucka; Mark Waid","Keith Giffen; Joe Bennett; Eddy Barrows","Booster Gold; The Question; Black Adam; Batwoman",52,exact
+dc-absolute-batman,Absolute Batman,DC,Absolute Universe,2024,,Scott Snyder,Nick Dragotta,"Batman; Alfred Pennyworth; Joker",,ongoing
+dc-absolute-wonder-woman,Absolute Wonder Woman,DC,Absolute Universe,2024,,Kelly Thompson,Hayden Sherman,"Wonder Woman; Steve Trevor; Circe",,ongoing
+dc-absolute-superman,Absolute Superman,DC,Absolute Universe,2024,,Jason Aaron,Rafa Sandoval,"Superman; Lois Lane; Brainiac",,ongoing
+marvel-daredevil-miller,Daredevil by Frank Miller,Marvel,Mainline,1979,1983,Frank Miller,"Frank Miller; Klaus Janson","Daredevil; Elektra; Kingpin",34,approximate_core_run
+marvel-born-again,Daredevil: Born Again,Marvel,Mainline,1986,1986,Frank Miller,David Mazzucchelli,"Daredevil; Karen Page; Kingpin",7,exact
+marvel-daredevil-bendis,Daredevil by Bendis and Maleev,Marvel,Marvel Knights,2001,2006,Brian Michael Bendis,Alex Maleev,"Daredevil; Kingpin; Milla Donovan",55,exact_run
+marvel-daredevil-brubaker,Daredevil by Brubaker and Lark,Marvel,Mainline,2006,2009,Ed Brubaker,Michael Lark,"Daredevil; Foggy Nelson; Vanessa Fisk",50,approximate
+marvel-daredevil-waid,Daredevil by Mark Waid,Marvel,Mainline,2011,2015,Mark Waid,"Paolo Rivera; Chris Samnee","Daredevil; Foggy Nelson; Kirsten McDuffie",54,across_two_volumes
+marvel-daredevil-zdarsky,Daredevil by Zdarsky and Checchetto,Marvel,Mainline,2019,2023,Chip Zdarsky,Marco Checchetto,"Daredevil; Elektra; Kingpin",51,including_devil_reign_omega
+marvel-spider-man-stern,Amazing Spider-Man by Roger Stern,Marvel,Mainline,1981,1984,Roger Stern,"John Romita Jr.; Ron Frenz","Spider-Man; Mary Jane Watson; Hobgoblin",30,approximate
+marvel-kravens-last-hunt,Spider-Man: Kraven's Last Hunt,Marvel,Mainline,1987,1987,J. M. DeMatteis,Mike Zeck,"Spider-Man; Kraven; Mary Jane Watson",6,exact
+marvel-ultimate-spider-man-bendis,Ultimate Spider-Man by Bendis and Bagley,Marvel,Ultimate Universe (2000),2000,2009,Brian Michael Bendis,Mark Bagley,"Spider-Man; Peter Parker; Mary Jane Watson",133,original_series_length
+marvel-spider-man-jms,Amazing Spider-Man by J. Michael Straczynski,Marvel,Mainline,2001,2007,J. Michael Straczynski,"John Romita Jr.; Mike Deodato Jr.; Ron Garney","Spider-Man; Mary Jane Watson; Aunt May",75,approximate
+marvel-superior-spider-man,Superior Spider-Man,Marvel,Mainline,2013,2014,Dan Slott,"Ryan Stegman; Giuseppe Camuncoli; Humberto Ramos","Superior Spider-Man; Doctor Octopus; Anna Maria Marconi",33,exact_original_series
+marvel-spider-man-life-story,Spider-Man: Life Story,Marvel,Mainline,2019,2019,Chip Zdarsky,Mark Bagley,"Spider-Man; Peter Parker; Mary Jane Watson",6,exact
+marvel-spider-gwen,Spider-Gwen by Latour and Rodriguez,Marvel,Mainline,2015,2018,Jason Latour,Robbi Rodriguez,"Spider-Gwen; Gwen Stacy",34,approximate_across_volumes
+marvel-miles-bendis,Miles Morales by Brian Michael Bendis,Marvel,Ultimate Universe (2000),2011,2018,Brian Michael Bendis,"Sara Pichelli; David Marquez","Miles Morales; Spider-Man; Ganke Lee",62,approximate_across_series
+marvel-venom-cates,Venom by Cates and Stegman,Marvel,Mainline,2018,2021,Donny Cates,Ryan Stegman,"Venom; Eddie Brock; Knull",35,exact_core_series
+marvel-fantastic-four-byrne,Fantastic Four by John Byrne,Marvel,Mainline,1981,1986,John Byrne,John Byrne,"Fantastic Four; Doctor Doom; Galactus",64,exact_run
+marvel-fantastic-four-waid,Fantastic Four by Waid and Wieringo,Marvel,Mainline,2002,2005,Mark Waid,Mike Wieringo,"Fantastic Four; Doctor Doom",36,approximate
+marvel-fantastic-four-hickman,Fantastic Four and FF by Jonathan Hickman,Marvel,Mainline,2009,2012,Jonathan Hickman,"Dale Eaglesham; Steve Epting; Nick Dragotta","Fantastic Four; Future Foundation; Doctor Doom",59,approximate_across_series
+marvel-fantastic-four-north,Fantastic Four by Ryan North,Marvel,Mainline,2022,,Ryan North,"Iban Coello; Carlos Gomez","Fantastic Four; Doctor Doom",,ongoing
+marvel-uncanny-xmen-claremont,Uncanny X-Men by Claremont Silvestri and Lee,Marvel,Mainline,1986,1991,Chris Claremont,"Marc Silvestri; Jim Lee","X-Men; Wolverine; Storm; Cyclops",71,approximate_era
+marvel-new-xmen-morrison,New X-Men by Grant Morrison,Marvel,Mainline,2001,2004,Grant Morrison,"Frank Quitely; Phil Jimenez; Chris Bachalo","X-Men; Cyclops; Emma Frost; Jean Grey",41,exact_run
+marvel-astonishing-xmen,Astonishing X-Men by Whedon and Cassaday,Marvel,Mainline,2004,2008,Joss Whedon,John Cassaday,"X-Men; Cyclops; Emma Frost; Kitty Pryde",25,including_giant_size_finale
+marvel-uncanny-xforce,Uncanny X-Force by Rick Remender,Marvel,Mainline,2010,2012,Rick Remender,"Jerome Opena; Esad Ribic; Phil Noto","X-Force; Wolverine; Psylocke; Deadpool",35,exact
+marvel-xstatix,X-Force and X-Statix by Milligan and Allred,Marvel,Mainline,2001,2004,Peter Milligan,Mike Allred,"X-Statix; Mister Sensitive; U-Go Girl",40,approximate_across_series
+marvel-xfactor-david,X-Factor Investigations by Peter David,Marvel,Mainline,2005,2013,Peter David,"Ryan Sook; Pablo Raimondi; Leonard Kirk","X-Factor; Multiple Man; Layla Miller",113,approximate_numbering
+marvel-hox-pox,House of X and Powers of X,Marvel,Mainline,2019,2019,Jonathan Hickman,"Pepe Larraz; R. B. Silva","X-Men; Professor X; Magneto; Moira MacTaggert",12,exact_combined
+marvel-xmen-hickman,X-Men by Jonathan Hickman,Marvel,Mainline,2019,2021,Jonathan Hickman,"Leinil Francis Yu; Mahmud Asrar; Pepe Larraz","X-Men; Cyclops; Krakoa",21,exact_series
+marvel-immortal-xmen,Immortal X-Men,Marvel,Mainline,2022,2023,Kieron Gillen,Lucas Werneck,"Quiet Council; Mister Sinister; Emma Frost",18,exact
+marvel-xmen-red,X-Men Red by Al Ewing,Marvel,Mainline,2022,2023,Al Ewing,"Stefano Caselli; Jacopo Camagni","Storm; Magneto; Arakko",18,exact
+marvel-weapon-x,Wolverine: Weapon X,Marvel,Mainline,1991,1992,Barry Windsor-Smith,Barry Windsor-Smith,"Wolverine; Weapon X",13,exact_serial
+marvel-old-man-logan,Wolverine: Old Man Logan,Marvel,Mainline,2008,2009,Mark Millar,Steve McNiven,"Wolverine; Hawkeye; Red Skull",8,exact
+marvel-vision-king,The Vision,Marvel,Mainline,2015,2016,Tom King,Gabriel Hernandez Walta,"Vision; Viv Vision; Virginia Vision",12,exact
+marvel-hawkeye-fraction,Hawkeye by Fraction and Aja,Marvel,Mainline,2012,2015,Matt Fraction,"David Aja; Annie Wu","Hawkeye; Clint Barton; Kate Bishop",22,exact
+marvel-moon-knight-ellis,Moon Knight by Ellis and Shalvey,Marvel,Mainline,2014,2014,Warren Ellis,Declan Shalvey,"Moon Knight; Marc Spector",6,exact_run
+marvel-moon-knight-lemire,Moon Knight by Lemire and Smallwood,Marvel,Mainline,2016,2017,Jeff Lemire,Greg Smallwood,"Moon Knight; Marc Spector",14,exact_run
+marvel-immortal-hulk,Immortal Hulk,Marvel,Mainline,2018,2021,Al Ewing,Joe Bennett,"Hulk; Bruce Banner; Betty Ross",50,exact
+marvel-planet-hulk,Incredible Hulk: Planet Hulk,Marvel,Mainline,2006,2007,Greg Pak,"Carlo Pagulayan; Aaron Lopresti","Hulk; Caiera; Warbound",15,approximate_storyline
+marvel-hulk-peter-david,Incredible Hulk by Peter David,Marvel,Mainline,1987,1998,Peter David,"Dale Keown; Gary Frank; Todd McFarlane","Hulk; Bruce Banner; Betty Ross",137,approximate_run
+marvel-thor-simonson,Thor by Walter Simonson,Marvel,Mainline,1983,1987,Walter Simonson, Walter Simonson,"Thor; Beta Ray Bill; Loki",46,exact_run
+marvel-thor-jms,Thor by Straczynski and Coipel,Marvel,Mainline,2007,2009,J. Michael Straczynski,Olivier Coipel,"Thor; Loki; Asgard",17,exact_run
+marvel-thor-god-thunder,Thor: God of Thunder,Marvel,Mainline,2012,2014,Jason Aaron,"Esad Ribic; Ron Garney","Thor; Gorr",25,exact
+marvel-mighty-thor-aaron,The Mighty Thor by Aaron and Dauterman,Marvel,Mainline,2015,2018,Jason Aaron,Russell Dauterman,"Thor; Jane Foster; Odinson",23,exact_series
+marvel-beta-ray-bill,Beta Ray Bill: Argent Star,Marvel,Mainline,2021,2021,Daniel Warren Johnson,Daniel Warren Johnson,"Beta Ray Bill; Skurge",5,exact
+marvel-captain-america-brubaker,Captain America by Ed Brubaker,Marvel,Mainline,2005,2011,Ed Brubaker,"Steve Epting; Michael Lark; Butch Guice","Captain America; Bucky Barnes; Red Skull",50,approximate_core_numbering
+marvel-truth,Truth: Red White and Black,Marvel,Mainline,2003,2003,Robert Morales,Kyle Baker,"Isaiah Bradley; Captain America",7,exact
+marvel-iron-man-extremis,Iron Man: Extremis,Marvel,Mainline,2005,2006,Warren Ellis,Adi Granov,"Iron Man; Tony Stark; Maya Hansen",6,exact
+marvel-invincible-iron-man-fraction,Invincible Iron Man by Fraction and Larroca,Marvel,Mainline,2008,2012,Matt Fraction,Salvador Larroca,"Iron Man; Tony Stark; Pepper Potts",60,exact_numbering
+marvel-black-panther-priest,Black Panther by Christopher Priest,Marvel,Marvel Knights,1998,2003,Christopher Priest,"Mark Texeira; Sal Velluto","Black Panther; Everett Ross; Wakanda",62,exact
+marvel-black-panther-coates,Black Panther by Ta-Nehisi Coates,Marvel,Mainline,2016,2021,Ta-Nehisi Coates,"Brian Stelfreeze; Daniel Acuna","Black Panther; Shuri; Wakanda",50,across_two_series
+marvel-black-widow-waid,Black Widow by Waid and Samnee,Marvel,Mainline,2016,2017,Mark Waid,Chris Samnee,"Black Widow; Natasha Romanoff",12,exact
+marvel-punisher-max,Punisher MAX by Garth Ennis,Marvel,MAX,2004,2008,Garth Ennis,"Lewis Larosa; Leandro Fernandez; Goran Parlov","Punisher; Frank Castle",60,exact
+marvel-alias,Alias,Marvel,MAX,2001,2004,Brian Michael Bendis,Michael Gaydos,"Jessica Jones; Luke Cage",28,exact
+marvel-captain-marvel-deconnick,Captain Marvel by Kelly Sue DeConnick,Marvel,Mainline,2012,2014,Kelly Sue DeConnick,"Dexter Soy; David Lopez","Captain Marvel; Carol Danvers",17,original_series
+marvel-ms-marvel-wilson,Ms. Marvel by G. Willow Wilson,Marvel,Mainline,2014,2019,G. Willow Wilson,"Adrian Alphona; Takeshi Miyazawa","Ms. Marvel; Kamala Khan",57,across_two_series
+marvel-squirrel-girl,The Unbeatable Squirrel Girl,Marvel,Mainline,2015,2019,Ryan North,Erica Henderson,"Squirrel Girl; Doreen Green; Tippy-Toe",58,across_two_series
+marvel-runaways,Runaways by Vaughan and Alphona,Marvel,Mainline,2003,2007,Brian K. Vaughan,Adrian Alphona,"Runaways; Nico Minoru; Karolina Dean",42,approximate_original_run
+marvel-young-avengers-heinberg,Young Avengers by Heinberg and Cheung,Marvel,Mainline,2005,2006,Allan Heinberg,Jim Cheung,"Young Avengers; Wiccan; Hulkling; Kate Bishop",13,including_special
+marvel-young-avengers-gillen,Young Avengers by Gillen and McKelvie,Marvel,Mainline,2013,2014,Kieron Gillen,Jamie McKelvie,"Young Avengers; Wiccan; Hulkling; Kate Bishop",15,exact
+marvel-avengers-busiek,Avengers by Busiek and Perez,Marvel,Mainline,1998,2002,Kurt Busiek,"George Perez; Alan Davis","Avengers; Captain America; Iron Man; Thor",56,exact_run
+marvel-new-avengers-bendis,New Avengers by Brian Michael Bendis,Marvel,Mainline,2005,2010,Brian Michael Bendis,"David Finch; Leinil Francis Yu; Stuart Immonen","Avengers; Luke Cage; Spider-Man; Wolverine",64,exact_original_series
+marvel-avengers-hickman,Avengers and New Avengers by Jonathan Hickman,Marvel,Mainline,2012,2015,Jonathan Hickman,"Jerome Opena; Mike Deodato Jr.; Steve Epting","Avengers; Illuminati; Black Panther",77,combined_series
+marvel-secret-wars,Secret Wars,Marvel,Mainline,2015,2016,Jonathan Hickman,Esad Ribic,"Doctor Doom; Reed Richards; Marvel Multiverse",9,exact
+marvel-ultimates-millar,The Ultimates by Millar and Hitch,Marvel,Ultimate Universe (2000),2002,2007,Mark Millar,Bryan Hitch,"Ultimates; Captain America; Iron Man; Thor",26,two_series
+marvel-ultimates-ewing,Ultimates by Al Ewing,Marvel,Mainline,2015,2017,Al Ewing,"Kenneth Rocafort; Travel Foreman","Ultimates; Blue Marvel; Captain Marvel; Galactus",24,across_two_series
+marvel-ultimate-spider-man-hickman,Ultimate Spider-Man by Hickman and Checchetto,Marvel,Ultimate Universe (2023),2024,2025,Jonathan Hickman,Marco Checchetto,"Spider-Man; Peter Parker; Mary Jane Watson",24,exact
+marvel-ultimate-xmen-momoko,Ultimate X-Men by Peach Momoko,Marvel,Ultimate Universe (2023),2024,2026,Peach Momoko,Peach Momoko,"Ultimate X-Men; Armor; Maystorm",24,exact
+marvel-ultimates-camp,The Ultimates by Camp and Frigeri,Marvel,Ultimate Universe (2023),2024,2026,Deniz Camp,Juan Frigeri,"Ultimates; Iron Lad; Captain America; Doom",24,exact
+marvel-doctor-strange-oath,Doctor Strange: The Oath,Marvel,Mainline,2006,2007,Brian K. Vaughan,Marcos Martin,"Doctor Strange; Wong; Night Nurse",5,exact
+marvel-doctor-strange-aaron,Doctor Strange by Jason Aaron,Marvel,Mainline,2015,2017,Jason Aaron,Chris Bachalo,"Doctor Strange; Zelma Stanton",20,exact_run
+marvel-silver-surfer-slott,Silver Surfer by Slott and Allred,Marvel,Mainline,2014,2017,Dan Slott,Mike Allred,"Silver Surfer; Dawn Greenwood; Galactus",29,across_two_series
+marvel-silver-surfer-black,Silver Surfer: Black,Marvel,Mainline,2019,2019,Donny Cates,Tradd Moore,"Silver Surfer; Knull",5,exact
+marvel-annihilation,Annihilation,Marvel,Mainline,2006,2007,Keith Giffen,Andrea Di Vito,"Nova; Annihilus; Silver Surfer",6,core_series_only
+marvel-guardians-dna,Guardians of the Galaxy by Abnett and Lanning,Marvel,Mainline,2008,2010,"Dan Abnett; Andy Lanning","Paul Pelletier; Brad Walker","Guardians of the Galaxy; Star-Lord; Rocket Raccoon",25,exact
+marvel-nova-dna,Nova by Abnett and Lanning,Marvel,Mainline,2007,2010,"Dan Abnett; Andy Lanning","Sean Chen; Wellinton Alves","Nova; Richard Rider; Worldmind",36,exact
+marvel-black-bolt,Black Bolt,Marvel,Mainline,2017,2018,Saladin Ahmed,Christian Ward,"Black Bolt; Crusher Creel",12,exact
+dc-arkham-asylum,Arkham Asylum: A Serious House on Serious Earth,DC,Mainline,1989,1989,Grant Morrison,Dave McKean,"Batman; Joker; Amadeus Arkham",1,graphic_novel
+dc-killing-joke,Batman: The Killing Joke,DC,Mainline,1988,1988,Alan Moore,Brian Bolland,"Batman; Joker; Barbara Gordon",1,graphic_novel
+dc-batman-cult,Batman: The Cult,DC,Mainline,1988,1988,Jim Starlin,Bernie Wrightson,"Batman; Deacon Blackfire; Robin",4,exact
+dc-knightfall,Batman: Knightfall,DC,Mainline,1993,1994,"Chuck Dixon; Doug Moench; Alan Grant","Jim Aparo; Graham Nolan; Norm Breyfogle","Batman; Bane; Jean-Paul Valley",19,core_chapters
+dc-no-mans-land,Batman: No Man's Land,DC,Mainline,1999,2000,"Greg Rucka; Chuck Dixon; Devin Grayson; Bob Gale","Dale Eaglesham; Alex Maleev; Noelle Giddings","Batman; Oracle; Cassandra Cain; James Gordon",,complex_crossover
+dc-black-mirror,Batman: The Black Mirror,DC,Mainline,2011,2011,Scott Snyder,"Jock; Francesco Francavilla","Batman; Dick Grayson; James Gordon Jr.",11,exact_storyline
+dc-white-knight,Batman: White Knight,DC,Black Label,2017,2018,Sean Murphy,Sean Murphy,"Batman; Joker; Harley Quinn",8,exact
+dc-batman-damned,Batman: Damned,DC,Black Label,2018,2019,Brian Azzarello,Lee Bermejo,"Batman; Joker; John Constantine",3,exact
+dc-batman-imposter,Batman: The Imposter,DC,Black Label,2021,2021,Mattson Tomlin,Andrea Sorrentino,"Batman; Detective Blair Wong",3,exact
+dc-batman-knight,Batman: The Knight,DC,Mainline,2022,2023,Chip Zdarsky,Carmine Di Giandomenico,"Bruce Wayne; Batman",10,exact
+dc-batman-earth-one,Batman: Earth One,DC,Earth One,2012,2021,Geoff Johns,Gary Frank,"Batman; Alfred Pennyworth; James Gordon",3,graphic_novel_volumes
+dc-creature-night,Batman: Creature of the Night,DC,Elseworlds,2017,2020,Kurt Busiek,John Paul Leon,"Batman; Bruce Wainwright",4,exact
+dc-batman-universe,Batman: Universe,DC,Mainline,2019,2020,Brian Michael Bendis,Nick Derington,"Batman; Green Lantern; Vandal Savage",6,exact
+dc-detective-ram-v,Detective Comics by Ram V,DC,Mainline,2022,2024,Ram V,"Rafael Albuquerque; Ivan Reis; Stefano Raffaele","Batman; Orgham Family; Catwoman",29,approximate_run
+dc-detective-rucka,Detective Comics: New Gotham by Greg Rucka,DC,Mainline,2000,2002,Greg Rucka,"Shawn Martinbrough; Steve Lieber","Batman; Sasha Bordeaux; James Gordon",28,approximate
+dc-robin-year-one,Robin: Year One,DC,Mainline,2000,2001,"Chuck Dixon; Scott Beatty",Javier Pulido,"Robin; Dick Grayson; Batman",4,exact
+dc-batgirl-year-one,Batgirl: Year One,DC,Mainline,2003,2003,"Chuck Dixon; Scott Beatty",Marcos Martin,"Batgirl; Barbara Gordon; Batman",9,exact
+dc-batgirl-stephanie,Batgirl by Bryan Q. Miller,DC,Mainline,2009,2011,Bryan Q. Miller,"Lee Garbett; Pere Perez","Batgirl; Stephanie Brown; Oracle",24,exact
+dc-batgirl-cassandra,Batgirl: Cassandra Cain,DC,Mainline,2000,2006,"Kelley Puckett; Dylan Horrocks","Damion Scott; Ale Garza","Batgirl; Cassandra Cain; Oracle",73,series_length
+dc-harley-kesel,Harley Quinn by Karl Kesel and Terry Dodson,DC,Mainline,2000,2002,Karl Kesel,Terry Dodson,"Harley Quinn; Poison Ivy; Joker",25,approximate_run
+dc-gotham-sirens,Gotham City Sirens,DC,Mainline,2009,2011,Paul Dini,Guillem March,"Catwoman; Poison Ivy; Harley Quinn",26,exact
+dc-poison-ivy-wilson,Poison Ivy by G. Willow Wilson,DC,Mainline,2022,,G. Willow Wilson,"Marcio Takara; Atagun Ilhan",Poison Ivy,,ongoing
+dc-riddler-year-one,The Riddler: Year One,DC,Black Label,2022,2023,Paul Dano,Stevan Subic,"Riddler; Edward Nashton; Batman",6,exact
+dc-joker-azzarello,Joker,DC,Black Label,2008,2008,Brian Azzarello,Lee Bermejo,"Joker; Batman; Jonny Frost",1,graphic_novel
+dc-joker-killer-smile,Joker: Killer Smile,DC,Black Label,2019,2020,Jeff Lemire,Andrea Sorrentino,"Joker; Ben Arnell; Batman",3,exact
+dc-superman-seasons,Superman for All Seasons,DC,Mainline,1998,1998,Jeph Loeb,Tim Sale,"Superman; Lois Lane; Lex Luthor",4,exact
+dc-red-son,Superman: Red Son,DC,Elseworlds,2003,2003,Mark Millar,"Dave Johnson; Kilian Plunkett","Superman; Lex Luthor; Wonder Woman",3,exact
+dc-whatever-happened,Superman: Whatever Happened to the Man of Tomorrow?,DC,Mainline,1986,1986,Alan Moore,Curt Swan,"Superman; Lois Lane; Lex Luthor",2,exact
+dc-last-son,Superman: Last Son,DC,Mainline,2006,2008,"Geoff Johns; Richard Donner",Adam Kubert,"Superman; Lois Lane; General Zod",6,exact_story_chapters
+dc-superman-brainiac,Superman: Brainiac,DC,Mainline,2008,2008,Geoff Johns,Gary Frank,"Superman; Brainiac; Supergirl",5,exact
+dc-up-in-sky,Superman: Up in the Sky,DC,Mainline,2019,2020,Tom King,Andy Kubert,"Superman; Alice",6,standard_issues
+dc-american-alien,Superman: American Alien,DC,Mainline,2015,2016,Max Landis,"Nick Dragotta; Joelle Jones; Jae Lee; Francis Manapul",Superman,7,exact
+dc-smashes-klan,Superman Smashes the Klan,DC,Mainline,2019,2020,Gene Luen Yang,Gurihiru,"Superman; Roberta Lee; Lois Lane",3,exact
+dc-space-age,Superman: Space Age,DC,Black Label,2022,2023,Mark Russell,Mike Allred,"Superman; Lois Lane; Batman",3,exact
+dc-superman-lost,Superman: Lost,DC,Mainline,2023,2024,Christopher Priest,Carlo Pagulayan,"Superman; Lois Lane",10,exact
+dc-wonder-woman-dead-earth,Wonder Woman: Dead Earth,DC,Black Label,2019,2020,Daniel Warren Johnson,Daniel Warren Johnson,"Wonder Woman; Cheetah",4,exact
+dc-wonder-woman-rebirth,Wonder Woman: Rebirth by Greg Rucka,DC,Mainline,2016,2017,Greg Rucka,"Liam Sharp; Nicola Scott; Bilquis Evely","Wonder Woman; Cheetah; Steve Trevor",25,exact_run
+dc-wonder-woman-simone,Wonder Woman by Gail Simone,DC,Mainline,2007,2010,Gail Simone,"Terry Dodson; Aaron Lopresti","Wonder Woman; Etta Candy; Genocide",30,approximate
+dc-wonder-woman-jimenez,Wonder Woman by Phil Jimenez,DC,Mainline,2000,2003,Phil Jimenez,Phil Jimenez,"Wonder Woman; Donna Troy; Circe",32,approximate
+dc-wonder-woman-earth-one,Wonder Woman: Earth One,DC,Earth One,2016,2021,Grant Morrison,Yanick Paquette,"Wonder Woman; Hippolyta; Steve Trevor",3,graphic_novel_volumes
+dc-green-lantern-morrison,The Green Lantern by Morrison and Sharp,DC,Mainline,2018,2021,Grant Morrison,Liam Sharp,"Green Lantern; Hal Jordan",27,including_season_finales
+dc-green-lantern-earth-one,Green Lantern: Earth One,DC,Earth One,2018,2020,"Corinna Bechko; Gabriel Hardman",Gabriel Hardman,"Green Lantern; Hal Jordan",2,graphic_novel_volumes
+dc-emerald-twilight,Green Lantern: Emerald Twilight and New Dawn,DC,Mainline,1994,1994,Ron Marz,Darryl Banks,"Green Lantern; Hal Jordan; Kyle Rayner",6,exact_story_chapters
+dc-green-lantern-corps-tomasi,Green Lantern Corps by Tomasi and Gleason,DC,Mainline,2006,2010,Peter J. Tomasi,Patrick Gleason,"Green Lantern Corps; Guy Gardner; Kilowog",47,approximate
+dc-green-lanterns,Green Lanterns by Sam Humphries,DC,Mainline,2016,2017,Sam Humphries,"Robson Rocha; Eduardo Pansica","Green Lantern; Jessica Cruz; Simon Baz",32,exact_run
+dc-flash-morrison-millar,The Flash by Morrison and Millar,DC,Mainline,1997,1998,"Grant Morrison; Mark Millar",Paul Ryan,"Flash; Wally West; Linda Park",12,exact_run
+dc-flash-manapul,The Flash by Manapul and Buccellato,DC,Mainline,2011,2014,"Francis Manapul; Brian Buccellato",Francis Manapul,"Flash; Barry Allen; Iris West",29,approximate
+dc-flash-williamson,The Flash by Joshua Williamson,DC,Mainline,2016,2020,Joshua Williamson,"Carmine Di Giandomenico; Howard Porter","Flash; Barry Allen; Wally West",101,approximate
+dc-flash-adams,The Flash by Jeremy Adams,DC,Mainline,2021,2023,Jeremy Adams,"Fernando Pasarin; Amancay Nahuelpan","Flash; Wally West; Flash Family",34,approximate
+dc-aquaman-parker,Aquaman by Jeff Parker,DC,Mainline,2013,2015,Jeff Parker,"Paul Pelletier; Yvel Guichet","Aquaman; Mera",16,exact_run
+dc-aquaman-abnett,Aquaman by Dan Abnett,DC,Mainline,2016,2018,Dan Abnett,"Brad Walker; Stjepan Sejic; Riccardo Federici","Aquaman; Mera; Black Manta",42,approximate
+dc-aquaman-andromeda,Aquaman: Andromeda,DC,Black Label,2022,2022,Ram V,Christian Ward,"Aquaman; Mera; Black Manta",3,exact
+dc-green-arrow-year-one,Green Arrow: Year One,DC,Mainline,2007,2007,Andy Diggle,Jock,"Green Arrow; Oliver Queen",6,exact
+dc-green-arrow-smith,Green Arrow by Kevin Smith,DC,Mainline,2001,2002,Kevin Smith,Phil Hester,"Green Arrow; Oliver Queen; Mia Dearden",15,exact_run
+dc-green-arrow-rebirth,Green Arrow by Benjamin Percy,DC,Mainline,2016,2018,Benjamin Percy,"Otto Schmidt; Juan Ferreyra","Green Arrow; Black Canary; Emiko Queen",38,exact_run
+dc-jla-morrison,JLA by Grant Morrison,DC,Mainline,1997,2000,Grant Morrison,Howard Porter,"Justice League; Superman; Batman; Wonder Woman",41,approximate
+dc-justice-league-johns,Justice League by Geoff Johns,DC,Mainline,2011,2016,Geoff Johns,"Jim Lee; Ivan Reis; Jason Fabok","Justice League; Darkseid; Lex Luthor",52,approximate
+dc-justice-league-snyder,Justice League by Scott Snyder,DC,Mainline,2018,2020,Scott Snyder,"Jim Cheung; Jorge Jimenez","Justice League; Perpetua; Legion of Doom",39,exact_run
+dc-justice-league-dark-tynion,Justice League Dark by James Tynion IV,DC,Mainline,2018,2020,James Tynion IV,"Alvaro Martinez Bueno; Amancay Nahuelpan","Justice League Dark; Wonder Woman; Zatanna",29,approximate
+dc-justice,Justice,DC,Mainline,2005,2007,Jim Krueger,"Alex Ross; Doug Braithwaite","Justice League; Legion of Doom",12,exact
+dc-crisis,Crisis on Infinite Earths,DC,Mainline,1985,1986,Marv Wolfman,George Perez,"DC Multiverse; Monitor; Anti-Monitor",12,exact
+dc-infinite-crisis,Infinite Crisis,DC,Mainline,2005,2006,Geoff Johns,"Phil Jimenez; George Perez; Ivan Reis","DC Universe; Superman; Superboy-Prime",7,exact
+dc-final-crisis,Final Crisis,DC,Mainline,2008,2009,Grant Morrison,"J. G. Jones; Doug Mahnke","DC Universe; Darkseid; Superman",7,core_series
+dc-blackest-night,Blackest Night,DC,Mainline,2009,2010,Geoff Johns,Ivan Reis,"Green Lantern; Hal Jordan; Black Lantern Corps",8,core_series
+dc-dceased,DCeased,DC,Elseworlds,2019,2019,Tom Taylor,Trevor Hairsine,"DC Universe; Batman; Superman; Wonder Woman",6,exact_core_series
+dc-dark-nights-metal,Dark Nights: Metal,DC,Mainline,2017,2018,Scott Snyder,Greg Capullo,"Justice League; Batman Who Laughs; Barbatos",6,core_series
+dc-death-metal,Dark Nights: Death Metal,DC,Mainline,2020,2021,Scott Snyder,Greg Capullo,"Wonder Woman; Batman Who Laughs; Justice League",7,core_series
+dc-injustice,Injustice: Gods Among Us,DC,Elseworlds,2013,2016,Tom Taylor,"Jheremy Raapack; Bruno Redondo; Mike S. Miller","Superman; Batman; Wonder Woman",60,digital_chapters_approximate
+dc-absolute-martian-manhunter,Absolute Martian Manhunter,DC,Absolute Universe,2025,,Deniz Camp,Javier Rodriguez,"Martian Manhunter; John Jones",,ongoing
+dc-teen-titans-johns,Teen Titans by Geoff Johns,DC,Mainline,2003,2007,Geoff Johns,"Mike McKone; Tony Daniel","Teen Titans; Superboy; Robin; Wonder Girl",50,approximate
+dc-young-justice,Young Justice by Peter David and Todd Nauck,DC,Mainline,1998,2003,Peter David,Todd Nauck,"Young Justice; Robin; Superboy; Impulse",55,exact
+dc-new-teen-titans,The New Teen Titans by Wolfman and Perez,DC,Mainline,1980,1985,Marv Wolfman,George Perez,"Teen Titans; Nightwing; Raven; Starfire",58,foundational_era_selection
+dc-absolute-green-lantern,Absolute Green Lantern,DC,Absolute Universe,2025,,Al Ewing,Jahno Lindsay,"Green Lantern; Jo Mullein; Hal Jordan",,ongoing
+dc-legion-five-years,Legion of Super-Heroes: Five Years Later,DC,Mainline,1989,1994,Keith Giffen,"Keith Giffen; Jason Pearson","Legion of Super-Heroes; Cosmic Boy; Brainiac 5",39,approximate
+dc-legion-waid,Legion of Super-Heroes by Waid and Kitson,DC,Mainline,2004,2007,Mark Waid,Barry Kitson,"Legion of Super-Heroes; Cosmic Boy; Brainiac 5",30,exact_run
+dc-legion-lost,Legion Lost,DC,Mainline,2000,2001,"Dan Abnett; Andy Lanning",Olivier Coipel,"Legion of Super-Heroes; Live Wire; Saturn Girl",12,exact
+dc-lobo,Giffen and Grant's Lobo,DC,Mainline,1990,1991,"Keith Giffen; Alan Grant",Simon Bisley,Lobo,4,exact
+dc-hitman,Hitman,DC,Mainline,1996,2001,Garth Ennis,John McCrea,"Hitman; Tommy Monaghan; Section Eight",60,exact
+dc-aztek,Aztek: The Ultimate Man,DC,Mainline,1996,1997,"Grant Morrison; Mark Millar",N. Steven Harris,"Aztek; Justice League",10,exact
+dc-resurrection-man,Resurrection Man,DC,Mainline,1997,1999,"Dan Abnett; Andy Lanning",Butch Guice,"Resurrection Man; Mitch Shelley",28,exact
+dc-manhunter-andreyko,Manhunter by Marc Andreyko,DC,Mainline,2004,2009,Marc Andreyko,"Jesus Saiz; Javier Pina","Manhunter; Kate Spencer",38,exact
+dc-blue-beetle,Blue Beetle by Rogers and Albuquerque,DC,Mainline,2006,2009,John Rogers,Rafael Albuquerque,"Blue Beetle; Jaime Reyes",36,series_length
+dc-booster-gold,Booster Gold by Johns Katz and Jurgens,DC,Mainline,2007,2008,"Geoff Johns; Jeff Katz",Dan Jurgens,"Booster Gold; Rip Hunter",12,approximate_run
+dc-absolute-flash,Absolute Flash,DC,Absolute Universe,2025,,Jeff Lemire,Nick Robles,"Flash; Wally West",,ongoing
+dc-black-adam-dark-age,Black Adam: The Dark Age,DC,Mainline,2007,2008,Peter J. Tomasi,Doug Mahnke,"Black Adam; Isis",6,exact
+dc-shazam-johns,Shazam! by Johns and Frank,DC,Mainline,2012,2013,Geoff Johns,Gary Frank,"Shazam; Billy Batson; Black Adam",16,serialized_chapters
+dc-shazam-monster-society,Shazam!: The Monster Society of Evil,DC,Mainline,2007,2007,Jeff Smith,Jeff Smith,"Shazam; Billy Batson; Mister Mind",4,exact
+dc-static,Static by McDuffie and Cowan,DC,Milestone,1993,1997,Dwayne McDuffie,"John Paul Leon; Denys Cowan","Static; Virgil Hawkins",45,exact_original_series
+dc-icon,Icon by McDuffie and Bright,DC,Milestone,1993,1997,Dwayne McDuffie,M. D. Bright,"Icon; Rocket",42,exact_original_series
+dc-hardware,Hardware by McDuffie and Cowan,DC,Milestone,1993,1997,Dwayne McDuffie,Denys Cowan,"Hardware; Curtis Metcalf",50,exact_original_series
+dc-other-history,The Other History of the DC Universe,DC,Black Label,2020,2021,John Ridley,"Giuseppe Camuncoli; Andrea Cucchi","Black Lightning; Katana; Renee Montoya",5,exact
+dc-sheriff-babylon,The Sheriff of Babylon,DC,Vertigo,2015,2016,Tom King,Mitch Gerads,"Chris Henry; Sofia Al Agani",12,exact
+dc-daytripper,Daytripper,DC,Vertigo,2009,2010,"Fabio Moon; Gabriel Ba","Fabio Moon; Gabriel Ba",Bras de Oliva Domingos,10,exact
+dc-punk-rock-jesus,Punk Rock Jesus,DC,Vertigo,2012,2013,Sean Murphy,Sean Murphy,"Chris; Thomas McKael",6,exact
+dc-we3,We3,DC,Vertigo,2004,2005,Grant Morrison,Frank Quitely,"Bandit; Tinker; Pirate",3,exact
+dc-joe-barbarian,Joe the Barbarian,DC,Vertigo,2010,2011,Grant Morrison,Sean Murphy,"Joe Manson; Jack",8,exact
+dc-wake,The Wake,DC,Vertigo,2013,2014,Scott Snyder,Sean Murphy,"Lee Archer; Leeward",10,exact
+dc-nice-house,The Nice House on the Lake,DC,Black Label,2021,2022,James Tynion IV,Alvaro Martinez Bueno,"Walter; The Lake House Survivors",12,first_cycle
+dc-sandman-overture,The Sandman: Overture,DC,Vertigo,2013,2015,Neil Gaiman,J. H. Williams III,"Dream; The Endless",6,exact
+dc-books-magic,The Books of Magic,DC,Vertigo,1990,1991,Neil Gaiman,"John Bolton; Scott Hampton; Charles Vess; Paul Johnson","Tim Hunter; John Constantine; Doctor Occult",4,exact
+marvel-spider-man-blue,Spider-Man: Blue,Marvel,Mainline,2002,2003,Jeph Loeb,Tim Sale,"Spider-Man; Gwen Stacy; Mary Jane Watson",6,exact
+marvel-death-jean-dewolff,Spider-Man: The Death of Jean DeWolff,Marvel,Mainline,1985,1986,J. M. DeMatteis,Rich Buckler,"Spider-Man; Daredevil; Jean DeWolff; Sin-Eater",4,exact
+marvel-tangled-web,Spider-Man's Tangled Web,Marvel,Mainline,2001,2003,"Garth Ennis; Peter Milligan; Paul Pope; Darwyn Cooke","John McCrea; Duncan Fegredo; Paul Pope; Darwyn Cooke",Spider-Man,22,exact_series
+marvel-spider-man-big-time,Amazing Spider-Man: Big Time,Marvel,Mainline,2010,2012,Dan Slott,"Humberto Ramos; Stefano Caselli; Marcos Martin","Spider-Man; Doctor Octopus; Horizon Labs",52,approximate_era
+marvel-spider-verse,Spider-Verse,Marvel,Mainline,2014,2015,Dan Slott,Olivier Coipel,"Spider-Man; Spider-Gwen; Spider-Man 2099",6,core_story
+marvel-friendly-spider-man,Friendly Neighborhood Spider-Man by Tom Taylor,Marvel,Mainline,2019,2020,Tom Taylor,Juann Cabal,"Spider-Man; Mary Jane Watson; Aunt May",14,exact
+marvel-spectacular-zdarsky,Peter Parker: The Spectacular Spider-Man by Zdarsky,Marvel,Mainline,2017,2018,Chip Zdarsky,"Adam Kubert; Joe Quinones","Spider-Man; Teresa Parker; J. Jonah Jameson",23,exact_run
+marvel-renew-vows,Amazing Spider-Man: Renew Your Vows,Marvel,Alternate Universe,2016,2018,Gerry Conway,"Ryan Stegman; Brian Level","Spider-Man; Mary Jane Watson; Annie Parker",23,exact_series
+marvel-spider-man-2099,Spider-Man 2099 by Peter David and Rick Leonardi,Marvel,Marvel 2099,1992,1996,Peter David,Rick Leonardi,"Spider-Man 2099; Miguel O'Hara",46,original_series
+marvel-scarlet-spider,Scarlet Spider by Christopher Yost,Marvel,Mainline,2012,2014,Christopher Yost,"Ryan Stegman; Khoi Pham","Scarlet Spider; Kaine Parker",25,exact
+marvel-venom-remender,Venom by Rick Remender,Marvel,Mainline,2011,2012,Rick Remender,"Tony Moore; Tom Fowler; Lan Medina","Venom; Flash Thompson",22,exact_run
+marvel-venom-space-knight,Venom: Space Knight,Marvel,Mainline,2015,2016,Robbie Thompson,Ariel Olivetti,"Venom; Flash Thompson",13,exact
+marvel-carnage-usa,Carnage U.S.A.,Marvel,Mainline,2011,2012,Zeb Wells,Clayton Crain,"Carnage; Spider-Man; Avengers",5,exact
+marvel-black-cat-mackay,Black Cat by Jed MacKay,Marvel,Mainline,2019,2021,Jed MacKay,C. F. Villa,"Black Cat; Felicia Hardy",28,approximate_across_series
+marvel-daredevil-nocenti,Daredevil by Ann Nocenti and John Romita Jr.,Marvel,Mainline,1986,1991,Ann Nocenti,John Romita Jr.,"Daredevil; Typhoid Mary; Kingpin",46,approximate_run
+marvel-daredevil-soule,Daredevil by Charles Soule,Marvel,Mainline,2015,2018,Charles Soule,"Ron Garney; Phil Noto","Daredevil; Blindspot; Kingpin",28,exact_run
+marvel-woman-without-fear,Daredevil: Woman Without Fear,Marvel,Mainline,2022,2022,Chip Zdarsky,Rafael de Latorre,"Elektra; Daredevil",3,exact
+marvel-elektra-assassin,Elektra: Assassin,Marvel,Mainline,1986,1987,Frank Miller,Bill Sienkiewicz,"Elektra; Garrett",8,exact
+marvel-punisher-welcome,Punisher: Welcome Back Frank,Marvel,Marvel Knights,2000,2001,Garth Ennis,Steve Dillon,"Punisher; Frank Castle; Ma Gnucci",12,exact
+marvel-punisher-rucka,Punisher by Greg Rucka,Marvel,Mainline,2011,2012,Greg Rucka,Marco Checchetto,"Punisher; Rachel Cole-Alves",22,approximate_including_war_zone
+marvel-fury-war-gone,Fury MAX: My War Gone By,Marvel,MAX,2012,2013,Garth Ennis,Goran Parlov,"Nick Fury; Frank Castle",13,exact
+marvel-moon-knight-huston,Moon Knight by Huston and Finch,Marvel,Mainline,2006,2009,Charlie Huston,David Finch,"Moon Knight; Marc Spector",30,series_length
+marvel-moon-knight-mackay,Moon Knight by Jed MacKay and Cappuccio,Marvel,Mainline,2021,2023,Jed MacKay,Alessandro Cappuccio,"Moon Knight; Tigra; Hunter's Moon",30,exact_series
+marvel-immortal-iron-fist,The Immortal Iron Fist,Marvel,Mainline,2006,2009,"Ed Brubaker; Matt Fraction; Duane Swierczynski","David Aja; Travel Foreman","Iron Fist; Orson Randall; Immortal Weapons",27,exact_series
+marvel-iron-fist-living,Iron Fist: The Living Weapon,Marvel,Mainline,2014,2015,Kaare Andrews,Kaare Andrews,"Iron Fist; Danny Rand",12,exact
+marvel-black-widow-edmondson,Black Widow by Edmondson and Noto,Marvel,Mainline,2014,2015,Nathan Edmondson,Phil Noto,"Black Widow; Natasha Romanoff",20,exact
+marvel-hawkeye-kate,Hawkeye: Kate Bishop by Kelly Thompson,Marvel,Mainline,2016,2018,Kelly Thompson,Leonardo Romero,"Hawkeye; Kate Bishop",16,exact
+marvel-hawkeye-freefall,Hawkeye: Freefall,Marvel,Mainline,2020,2020,Matthew Rosenberg,Otto Schmidt,"Hawkeye; Clint Barton; Ronin",6,exact
+marvel-captain-america-gruenwald,Captain America by Mark Gruenwald,Marvel,Mainline,1985,1995,Mark Gruenwald,"Paul Neary; Kieron Dwyer; Ron Lim","Captain America; John Walker; Red Skull",137,exact_run
+marvel-captain-america-waid,Captain America by Waid and Garney,Marvel,Mainline,1995,1998,Mark Waid,Ron Garney,"Captain America; Sharon Carter; Red Skull",23,approximate_run
+marvel-captain-america-coates,Captain America by Ta-Nehisi Coates,Marvel,Mainline,2018,2021,Ta-Nehisi Coates,Leinil Francis Yu,"Captain America; Sharon Carter; Alexa Lukin",30,exact
+marvel-winter-soldier,Winter Soldier by Brubaker and Guice,Marvel,Mainline,2012,2013,Ed Brubaker,Butch Guice,"Winter Soldier; Black Widow",19,exact
+marvel-ultimate-wolverine,Ultimate Wolverine,Marvel,Ultimate Universe (2023),2025,,Chris Condon,Alessandro Cappuccio,"Wolverine; Magik; Colossus",,ongoing
+marvel-iron-man-director,Iron Man: Director of S.H.I.E.L.D.,Marvel,Mainline,2007,2008,"Daniel Knauf; Charles Knauf",Roberto de la Torre,"Iron Man; Tony Stark; S.H.I.E.L.D.",30,approximate
+marvel-superior-iron-man,Superior Iron Man,Marvel,Mainline,2014,2015,Tom Taylor,Yildiray Cinar,"Iron Man; Tony Stark; Pepper Potts",9,exact
+marvel-war-machine-pak,War Machine by Greg Pak,Marvel,Mainline,2008,2010,Greg Pak,Leonardo Manco,"War Machine; James Rhodes",12,exact
+marvel-journey-mystery-gillen,Journey into Mystery by Kieron Gillen,Marvel,Mainline,2011,2013,Kieron Gillen,"Doug Braithwaite; Richard Elson","Loki; Kid Loki; Leah",30,approximate
+marvel-loki-agent,Loki: Agent of Asgard,Marvel,Mainline,2014,2015,Al Ewing,Lee Garbett,"Loki; Verity Willis",17,exact
+marvel-angela-asgard,Angela: Asgard's Assassin,Marvel,Mainline,2014,2015,"Kieron Gillen; Marguerite Bennett","Phil Jimenez; Stephanie Hans","Angela; Sera",6,exact
+marvel-thor-cates,Thor by Donny Cates,Marvel,Mainline,2020,2023,Donny Cates,Nic Klein,"Thor; Galactus; Donald Blake",35,approximate
+marvel-hulk-loeb,Hulk by Loeb and McGuinness,Marvel,Mainline,2008,2010,Jeph Loeb,Ed McGuinness,"Red Hulk; Hulk; General Ross",24,exact_run
+marvel-hulk-waid,Indestructible Hulk by Mark Waid,Marvel,Mainline,2012,2014,Mark Waid,"Leinil Francis Yu; Matteo Scalera","Hulk; Bruce Banner; S.H.I.E.L.D.",20,exact
+marvel-totally-awesome-hulk,The Totally Awesome Hulk,Marvel,Mainline,2015,2017,Greg Pak,"Frank Cho; Mike Del Mundo","Hulk; Amadeus Cho",23,exact
+marvel-she-hulk-byrne,The Sensational She-Hulk by John Byrne,Marvel,Mainline,1989,1994,John Byrne,John Byrne,"She-Hulk; Jennifer Walters",60,series_length
+marvel-she-hulk-slott,She-Hulk by Dan Slott,Marvel,Mainline,2004,2007,Dan Slott,"Juan Bobillo; Paul Pelletier","She-Hulk; Jennifer Walters; Awesome Andy",33,across_two_series
+marvel-she-hulk-soule,She-Hulk by Charles Soule,Marvel,Mainline,2014,2015,Charles Soule,Javier Pulido,"She-Hulk; Jennifer Walters; Hellcat",12,exact
+marvel-fantastic-four-millar,Fantastic Four by Millar and Hitch,Marvel,Mainline,2008,2009,Mark Millar,Bryan Hitch,"Fantastic Four; Doctor Doom",16,exact
+marvel-ff-fraction,FF by Fraction and Allred,Marvel,Mainline,2013,2014,Matt Fraction,Mike Allred,"Future Foundation; Ant-Man; She-Hulk",16,exact
+marvel-two-in-one,Marvel Two-in-One by Chip Zdarsky,Marvel,Mainline,2017,2018,Chip Zdarsky,Jim Cheung,"The Thing; Human Torch; Doctor Doom",12,exact
+marvel-thing-north,The Thing by Ryan North,Marvel,Mainline,2021,2022,Ryan North,Iban Coello,"The Thing; Alicia Masters",6,exact
+marvel-age-apocalypse,X-Men: Age of Apocalypse,Marvel,Alternate Universe,1995,1995,"Scott Lobdell; Fabian Nicieza; Mark Waid","Joe Madureira; Andy Kubert; Steve Epting","X-Men; Apocalypse; Magneto",,complex_event
+marvel-messiah-complex,X-Men: Messiah Complex,Marvel,Mainline,2007,2008,"Ed Brubaker; Mike Carey; Peter David; Craig Kyle; Chris Yost","Marc Silvestri; Billy Tan; Chris Bachalo","X-Men; Cable; Hope Summers",13,core_chapters
+marvel-xmen-legacy-carey,X-Men Legacy by Mike Carey,Marvel,Mainline,2006,2012,Mike Carey,"Chris Bachalo; Scot Eaton; Clay Mann","X-Men; Rogue; Professor X",75,approximate_run
+marvel-xmen-legacy-spurrier,X-Men Legacy by Si Spurrier,Marvel,Mainline,2012,2014,Si Spurrier,"Tan Eng Huat; Khoi Pham","Legion; David Haller",24,exact
+marvel-wolverine-aaron,Wolverine by Jason Aaron,Marvel,Mainline,2009,2012,Jason Aaron,"Ron Garney; Renato Guedes; Chris Bachalo","Wolverine; Mystique; Silver Samurai",36,approximate_across_series
+marvel-wolverine-enemy,Wolverine: Enemy of the State,Marvel,Mainline,2004,2005,Mark Millar,John Romita Jr.,"Wolverine; Elektra; The Hand",12,exact
+marvel-wolverine-xmen,Wolverine and the X-Men by Jason Aaron,Marvel,Mainline,2011,2014,Jason Aaron,"Chris Bachalo; Nick Bradshaw","Wolverine; Kitty Pryde; Kid Omega",42,exact
+marvel-all-new-wolverine,All-New Wolverine,Marvel,Mainline,2015,2018,Tom Taylor,"David Lopez; Marcio Takara; Juann Cabal","Wolverine; Laura Kinney; Gabby Kinney",35,exact
+marvel-x23-liu,X-23 by Marjorie Liu,Marvel,Mainline,2010,2012,Marjorie Liu,"Will Conrad; Sana Takeda","X-23; Laura Kinney; Gambit",21,exact
+marvel-cable-deadpool,Cable and Deadpool,Marvel,Mainline,2004,2008,Fabian Nicieza,"Patrick Zircher; Reilly Brown","Cable; Deadpool",50,exact
+marvel-deadpool-kelly,Deadpool by Joe Kelly,Marvel,Mainline,1997,1999,Joe Kelly,Ed McGuinness,"Deadpool; Blind Al; Weasel",33,approximate_run
+marvel-deadpool-duggan,Deadpool by Duggan and Posehn,Marvel,Mainline,2012,2015,"Gerry Duggan; Brian Posehn","Tony Moore; Mike Hawthorne","Deadpool; Agent Preston",45,exact_original_series
+marvel-uncanny-avengers,Uncanny Avengers by Rick Remender,Marvel,Mainline,2012,2014,Rick Remender,"John Cassaday; Daniel Acuna","Avengers Unity Squad; Havok; Rogue",25,exact
+marvel-excalibur-davis,Excalibur by Alan Davis,Marvel,Mainline,1988,1993,"Chris Claremont; Alan Davis",Alan Davis,"Excalibur; Captain Britain; Kitty Pryde",67,approximate_era
+marvel-new-mutants-demon,New Mutants by Claremont and Sienkiewicz,Marvel,Mainline,1984,1985,Chris Claremont,Bill Sienkiewicz,"New Mutants; Magik; Dani Moonstar",14,exact_run
+marvel-new-mutants-wells,New Mutants by Zeb Wells,Marvel,Mainline,2009,2011,Zeb Wells,"Diogenes Neves; Leonard Kirk","New Mutants; Magik; Cannonball",21,exact_run
+marvel-hellions,Hellions,Marvel,Mainline,2020,2021,Zeb Wells,Stephen Segovia,"Hellions; Mister Sinister; Psylocke",18,exact
+marvel-marauders,Marauders by Gerry Duggan,Marvel,Mainline,2019,2021,Gerry Duggan,"Matteo Lolli; Stefano Caselli","Marauders; Kitty Pryde; Emma Frost",27,exact
+marvel-sword,S.W.O.R.D. by Al Ewing,Marvel,Mainline,2020,2021,Al Ewing,Valerio Schiti,"S.W.O.R.D.; Abigail Brand; Magneto",11,exact
+marvel-cable-duggan,Cable by Duggan and Noto,Marvel,Mainline,2020,2021,Gerry Duggan,Phil Noto,"Cable; Kid Cable; Esme Cuckoo",12,exact
+marvel-no-surrender,Avengers: No Surrender,Marvel,Mainline,2018,2018,"Mark Waid; Al Ewing; Jim Zub","Pepe Larraz; Kim Jacinto; Paco Medina","Avengers; Voyager; Hulk",16,exact_story_chapters
+marvel-no-road-home,Avengers: No Road Home,Marvel,Mainline,2019,2019,"Mark Waid; Al Ewing; Jim Zub","Paco Medina; Sean Izaakse","Avengers; Scarlet Witch; Conan",10,exact
+marvel-mighty-avengers-ewing,Mighty Avengers by Al Ewing,Marvel,Mainline,2013,2014,Al Ewing,Greg Land,"Mighty Avengers; Luke Cage; Blue Marvel",14,exact
+marvel-secret-avengers-brubaker,Secret Avengers by Ed Brubaker,Marvel,Mainline,2010,2011,Ed Brubaker,Mike Deodato Jr.,"Secret Avengers; Steve Rogers; Black Widow",12,exact_run
+marvel-secret-avengers-ellis,Secret Avengers by Warren Ellis,Marvel,Mainline,2011,2012,Warren Ellis,"Jamie McKelvie; Kev Walker; David Aja","Secret Avengers; Moon Knight; Black Widow",6,exact_run
+marvel-west-coast-avengers,West Coast Avengers by Kelly Thompson,Marvel,Mainline,2018,2019,Kelly Thompson,Stefano Caselli,"West Coast Avengers; Hawkeye; Kate Bishop",10,exact
+marvel-nextwave,Nextwave: Agents of H.A.T.E.,Marvel,Mainline,2006,2007,Warren Ellis,Stuart Immonen,"Nextwave; Monica Rambeau; Machine Man",12,exact
+marvel-thunderbolts-busiek,Thunderbolts by Busiek and Bagley,Marvel,Mainline,1997,2001,Kurt Busiek,Mark Bagley,"Thunderbolts; Baron Zemo; Songbird",33,approximate_run
+marvel-thunderbolts-parker,Thunderbolts by Jeff Parker,Marvel,Mainline,2010,2012,Jeff Parker,"Kev Walker; Declan Shalvey","Thunderbolts; Luke Cage; Songbird",40,approximate
+marvel-champions-waid,Champions by Mark Waid,Marvel,Mainline,2016,2018,Mark Waid,Humberto Ramos,"Champions; Ms. Marvel; Miles Morales; Nova",27,exact_run
+marvel-defenders-bendis,Defenders by Bendis and Marquez,Marvel,Mainline,2017,2018,Brian Michael Bendis,David Marquez,"Defenders; Daredevil; Jessica Jones; Luke Cage",10,exact
+marvel-defenders-ewing,Defenders by Al Ewing and Javier Rodriguez,Marvel,Mainline,2021,2022,Al Ewing,Javier Rodriguez,"Defenders; Doctor Strange; Blue Marvel",5,exact
+marvel-marvels,Marvels,Marvel,Mainline,1994,1994,Kurt Busiek,Alex Ross,"Marvel Universe; Phil Sheldon; Fantastic Four",4,exact
+marvel-earth-x,Earth X,Marvel,Alternate Universe,1999,2000,Jim Krueger,John Paul Leon,"Marvel Universe; Machine Man; Black Bolt",12,exact
+marvel-1602,Marvel 1602,Marvel,Alternate Universe,2003,2004,Neil Gaiman,Andy Kubert,"Marvel Universe; Virginia Dare; Nicholas Fury",8,exact
+marvel-squadron-supreme,Squadron Supreme by Mark Gruenwald,Marvel,Mainline,1985,1986,Mark Gruenwald,"Bob Hall; Paul Ryan","Squadron Supreme; Hyperion; Nighthawk",12,exact
+marvel-eternals-gillen,Eternals by Gillen and Ribic,Marvel,Mainline,2021,2022,Kieron Gillen,Esad Ribic,"Eternals; Ikaris; Thanos",12,exact
+marvel-inhumans-jenkins,Inhumans by Jenkins and Lee,Marvel,Marvel Knights,1998,1999,Paul Jenkins,Jae Lee,"Inhumans; Black Bolt; Medusa",12,exact
+marvel-royals,Royals,Marvel,Mainline,2017,2018,Al Ewing,"Jonboy Meyers; Javier Rodriguez","Inhumans; Medusa; Black Bolt",12,exact
+marvel-karnak,Karnak,Marvel,Mainline,2015,2017,Warren Ellis,"Gerardo Zaffino; Roland Boschi",Karnak,6,exact
+marvel-ant-man-spencer,Ant-Man by Nick Spencer,Marvel,Mainline,2015,2016,Nick Spencer,Ramon Rosanas,"Ant-Man; Scott Lang; Cassie Lang",16,across_series
+marvel-gwenpool,The Unbelievable Gwenpool,Marvel,Mainline,2016,2018,Christopher Hastings,Gurihiru,"Gwenpool; Batroc",25,exact
+marvel-howard-duck,Howard the Duck by Zdarsky and Quinones,Marvel,Mainline,2015,2016,Chip Zdarsky,Joe Quinones,"Howard the Duck; Beverly Switzler",16,across_two_series
+marvel-patsy-walker,Patsy Walker A.K.A. Hellcat!,Marvel,Mainline,2015,2017,Kate Leth,Brittney Williams,"Hellcat; Patsy Walker; She-Hulk",17,exact
+marvel-scarlet-witch-robinson,Scarlet Witch by James Robinson,Marvel,Mainline,2015,2017,James Robinson,"Vanesa Del Rey; Marco Rudy; Steve Dillon","Scarlet Witch; Wanda Maximoff",15,exact
+marvel-doctor-strange-surgeon,Doctor Strange: Surgeon Supreme,Marvel,Mainline,2019,2020,Mark Waid,Kev Walker,"Doctor Strange; Wrecker",6,exact
+marvel-fall-sunrise,Doctor Strange: Fall Sunrise,Marvel,Mainline,2022,2023,Tradd Moore,Tradd Moore,"Doctor Strange; Yalda",4,exact
+marvel-ghost-rider-aaron,Ghost Rider by Jason Aaron,Marvel,Mainline,2008,2009,Jason Aaron,"Roland Boschi; Tony Moore","Ghost Rider; Johnny Blaze; Danny Ketch",35,approximate_including_finale
+marvel-trail-tears,Ghost Rider: Trail of Tears,Marvel,Mainline,2007,2007,Garth Ennis,Clayton Crain,"Ghost Rider; Travis Parham",6,exact
+marvel-ultimate-black-panther,Ultimate Black Panther,Marvel,Ultimate Universe (2023),2024,2025,Bryan Hill,Stefano Caselli,"Black Panther; Wakanda; Moon Knight",24,exact
+dc-sandman-mystery-theatre,Sandman Mystery Theatre,DC,Vertigo,1993,1999,"Matt Wagner; Steven T. Seagle","Guy Davis; John Watkiss","Sandman; Wesley Dodds; Dian Belmont",70,exact
+dc-unwritten,The Unwritten,DC,Vertigo,2009,2015,Mike Carey,Peter Gross,"Tom Taylor; Lizzie Hexam",66,approximate_across_series
+dc-izombie,iZombie,DC,Vertigo,2010,2012,Chris Roberson,Michael Allred,"Gwen Dylan; Ellie; Scott",28,exact
+dc-losers,The Losers,DC,Vertigo,2003,2006,Andy Diggle,Jock,"The Losers; Clay; Aisha",32,exact
+dc-dmz,DMZ,DC,Vertigo,2005,2012,Brian Wood,Riccardo Burchielli,"Matty Roth; Zee Hernandez",72,exact
+dc-northlanders,Northlanders,DC,Vertigo,2008,2012,Brian Wood,"Davide Gianfelice; Leandro Fernandez; Declan Shalvey",Vikings,50,exact
+dc-exterminators,The Exterminators,DC,Vertigo,2006,2008,Simon Oliver,Tony Moore,"Henry James; Bug-Bee-Gone",30,exact
+dc-unknown-soldier,Unknown Soldier by Joshua Dysart,DC,Vertigo,2008,2010,Joshua Dysart,Alberto Ponticelli,"Unknown Soldier; Moses Lwanga",25,exact
+dc-air,Air,DC,Vertigo,2008,2010,G. Willow Wilson,M. K. Perker,"Blythe; Zayn",24,exact
+dc-house-mystery,House of Mystery,DC,Vertigo,2008,2011,"Matthew Sturges; Bill Willingham",Luca Rossi,"Fig Keele; House of Mystery",42,exact
+dc-madame-xanadu,Madame Xanadu by Matt Wagner,DC,Vertigo,2008,2011,Matt Wagner,Amy Reeder,"Madame Xanadu; Nimue",29,exact
+dc-shade-changing-man,Shade the Changing Man,DC,Vertigo,1990,1996,Peter Milligan,Chris Bachalo,"Shade; Kathy George",70,exact
+dc-dreaming-spurrier,The Dreaming by Simon Spurrier,DC,Vertigo,2018,2020,Simon Spurrier,"Bilquis Evely; Abigail Larson","Dreaming; Dora; Lucien",20,exact
+dc-lucifer-watters,Lucifer by Dan Watters,DC,Vertigo,2018,2020,Dan Watters,"Max Fiumara; Sebastian Fiumara",Lucifer Morningstar,24,exact
+dc-books-magic-tynion,The Books of Magic by Kat Howard,DC,Vertigo,2018,2020,Kat Howard,Tom Fowler,"Tim Hunter; Rose",23,exact
+dc-trillium,Trillium,DC,Vertigo,2013,2014,Jeff Lemire,Jeff Lemire,"Nika Temsmith; William Pike",8,exact
+dc-nobody,The Nobody,DC,Vertigo,2009,2009,Jeff Lemire,Jeff Lemire,"John Griffen; Vickie",1,graphic_novel
+dc-underwater-welder,The Underwater Welder,DC,Vertigo,2012,2012,Jeff Lemire,Jeff Lemire,"Jack Joseph; Peter Joseph",1,graphic_novel
+dc-kitchen,The Kitchen,DC,Vertigo,2014,2015,Ollie Masters,Ming Doyle,"Kathy; Ruby; Claire",8,exact
+dc-pride-baghdad,Pride of Baghdad,DC,Vertigo,2006,2006,Brian K. Vaughan,Niko Henrichon,"Zill; Safa; Ali",1,graphic_novel
+dc-cairo,Cairo,DC,Vertigo,2007,2007,G. Willow Wilson,M. K. Perker,"Ashraf; Shams; Tova",1,graphic_novel
+dc-fbp,FBP: Federal Bureau of Physics,DC,Vertigo,2013,2015,Simon Oliver,Robbi Rodriguez,"Adam Hardy; FBP",24,exact
+dc-coffin-hill,Coffin Hill,DC,Vertigo,2013,2015,Caitlin Kittredge,Inaki Miranda,"Eve Coffin; Coffin Hill",20,exact
+dc-clean-room,Clean Room,DC,Vertigo,2015,2017,Gail Simone,Jon Davis-Hunt,"Chloe Pierce; Astrid Mueller",18,exact
+dc-american-carnage,American Carnage,DC,Vertigo,2018,2019,Bryan Hill,Leandro Fernandez,"Richard Wright; Jennifer Morgan",9,exact
+dc-american-way,The American Way,DC,WildStorm,2006,2007,John Ridley,Georges Jeanty,"New American; Civil Defense Corps",8,exact
+dc-quitter,The Quitter,DC,Vertigo,2005,2005,Harvey Pekar,Dean Haspiel,Harvey Pekar,1,graphic_novel
+dc-unfollow,Unfollow,DC,Vertigo,2015,2017,Rob Williams,Mike Dowling,"Larry Ferrell; Dave; Akira",18,exact
+dc-suiciders,Suiciders,DC,Vertigo,2015,2016,Lee Bermejo,Lee Bermejo,"Saint; Kings of Hella",12,across_series
+dc-last-god,The Last God,DC,Black Label,2019,2021,Phillip Kennedy Johnson,Riccardo Federici,"Fellspyre Chronicles; Cain Anuun",12,exact
+dc-basketful-heads,Basketful of Heads,DC,Hill House,2019,2020,Joe Hill,Leomacs,"June Branch; Liam Ellsworth",7,exact
+dc-nice-house-sea,The Nice House by the Sea,DC,Black Label,2024,,James Tynion IV,Alvaro Martinez Bueno,"Max; The Sea House Survivors",,ongoing
+dc-plunge,Plunge,DC,Hill House,2020,2020,Joe Hill,Stuart Immonen,"Moriah Lamb; Derleth Crew",6,exact
+dc-refrigerator-heads,Refrigerator Full of Heads,DC,Hill House,2021,2022,Rio Youers,Tom Fowler,"Arlene; Cal; Brody Island",6,exact
+dc-daphne-byrne,Daphne Byrne,DC,Hill House,2020,2020,Laura Marks,Kelley Jones,"Daphne Byrne; Brother",6,exact
+dc-soul-plumber,Soul Plumber,DC,Hill House,2021,2022,"Marcus Parks; Henry Zebrowski; Ben Kissel",John McCrea,"Edgar Wiggins; Scuzz",6,exact
+dc-low-low-woods,The Low Low Woods,DC,Hill House,2019,2020,Carmen Maria Machado,Dani,"El; Octavia; Shudder-to-Think",6,exact
+dc-dollhouse-family,The Dollhouse Family,DC,Hill House,2019,2020,Mike Carey,Peter Gross,"Alice; Dollhouse Family",6,exact
+dc-hellblazer-spurrier,John Constantine: Hellblazer by Si Spurrier,DC,Black Label,2019,2021,Simon Spurrier,Aaron Campbell,"John Constantine; Noah Ikumelo",12,exact
+dc-hellblazer-dead-america,John Constantine Hellblazer: Dead in America,DC,Black Label,2024,2025,Simon Spurrier,Aaron Campbell,"John Constantine; Dream; Swamp Thing",11,exact
+dc-swamp-thing-ram-v,The Swamp Thing by Ram V and Mike Perkins,DC,Mainline,2021,2022,Ram V,Mike Perkins,"Swamp Thing; Levi Kamei",16,exact
+dc-swamp-thing-snyder,Swamp Thing by Scott Snyder,DC,Mainline,2011,2013,Scott Snyder,Yanick Paquette,"Swamp Thing; Alec Holland; Abby Arcane",18,exact_run
+dc-animal-man-lemire,Animal Man by Jeff Lemire,DC,Mainline,2011,2014,Jeff Lemire,"Travel Foreman; Steve Pugh","Animal Man; Buddy Baker; Maxine Baker",29,exact
+dc-dial-h,Dial H,DC,Mainline,2012,2013,China Mieville,Mateus Santolouco,"Dial H; Nelson Jent",16,exact
+dc-frankenstein-shade,Frankenstein: Agent of S.H.A.D.E.,DC,Mainline,2011,2013,"Jeff Lemire; Matt Kindt",Alberto Ponticelli,"Frankenstein; S.H.A.D.E.",16,exact
+dc-i-vampire,I Vampire,DC,Mainline,2011,2013,Joshua Hale Fialkov,Andrea Sorrentino,"Andrew Bennett; Mary Queen of Blood",19,exact
+dc-demon-knights,Demon Knights,DC,Mainline,2011,2013,"Paul Cornell; Robert Venditti",Diogenes Neves,"Demon Knights; Etrigan; Madame Xanadu",23,exact
+dc-sword-sorcery,Sword of Sorcery,DC,Mainline,2012,2013,Christy Marx,Aaron Lopresti,"Amethyst; Gemworld",8,exact
+dc-terrifics,The Terrifics,DC,Mainline,2018,2020,"Jeff Lemire; Gene Luen Yang","Ivan Reis; Joe Bennett","Terrifics; Mister Terrific; Plastic Man",30,series_length
+dc-flintstones,The Flintstones,DC,Hanna-Barbera,2016,2017,Mark Russell,Steve Pugh,"Fred Flintstone; Wilma Flintstone",12,exact
+dc-snagglepuss,Exit Stage Left: The Snagglepuss Chronicles,DC,Hanna-Barbera,2018,2018,Mark Russell,Mike Feehan,"Snagglepuss; Huckleberry Hound",6,exact
+dc-wonder-twins,Wonder Twins,DC,Wonder Comics,2019,2020,Mark Russell,Stephen Byrne,"Wonder Twins; Zan; Jayna",12,exact
+dc-prez,Prez,DC,Mainline,2015,2016,Mark Russell,Ben Caldwell,"Prez; Beth Ross",6,exact
+dc-one-star-squadron,One-Star Squadron,DC,Mainline,2021,2022,Mark Russell,Steve Lieber,"Red Tornado; Power Girl; Gangbuster",6,exact
+dc-jimmy-olsen,Superman's Pal Jimmy Olsen,DC,Mainline,2019,2020,Matt Fraction,Steve Lieber,"Jimmy Olsen; Superman; Lois Lane",12,exact
+dc-worlds-finest-waid,Batman/Superman: World's Finest,DC,Mainline,2022,,Mark Waid,Dan Mora,"Batman; Superman; Robin",,ongoing
+dc-worlds-finest-teen-titans,World's Finest: Teen Titans,DC,Mainline,2023,2024,Mark Waid,Emanuela Lupacchino,"Teen Titans; Robin; Wonder Girl",6,exact
+dc-generations,Superman and Batman: Generations,DC,Elseworlds,1999,2004,John Byrne,John Byrne,"Superman; Batman; Lois Lane",12,three_series
+dc-batman-superman-loeb,Superman/Batman by Jeph Loeb,DC,Mainline,2003,2006,Jeph Loeb,"Ed McGuinness; Michael Turner; Carlos Pacheco","Superman; Batman; Supergirl",26,exact_run
+dc-batman-vs-robin,Batman vs. Robin,DC,Mainline,2022,2023,Mark Waid,Mahmud Asrar,"Batman; Robin; Damian Wayne",5,exact
+dc-robin-son-batman,Robin: Son of Batman,DC,Mainline,2015,2016,Patrick Gleason,Patrick Gleason,"Robin; Damian Wayne; Maya Ducard",13,exact
+dc-robin-williamson,Robin by Joshua Williamson,DC,Mainline,2021,2022,Joshua Williamson,Gleb Melnikov,"Robin; Damian Wayne; Flatline",17,exact
+dc-red-robin,Red Robin,DC,Mainline,2009,2011,"Christopher Yost; Fabian Nicieza",Marcus To,"Red Robin; Tim Drake",26,exact
+dc-red-hood-lost,Red Hood: The Lost Days,DC,Mainline,2010,2011,Judd Winick,Pablo Raimondi,"Red Hood; Jason Todd; Talia al Ghul",6,exact
+dc-task-force-z,Task Force Z,DC,Mainline,2021,2022,Matthew Rosenberg,Eddy Barrows,"Red Hood; Task Force Z; Two-Face",12,exact
+dc-batman-outsiders,Batman and the Outsiders by Bryan Hill,DC,Mainline,2019,2020,Bryan Hill,Dexter Soy,"Outsiders; Black Lightning; Katana",17,exact
+dc-outsiders-lanzing,Outsiders by Lanzing and Kelly,DC,Mainline,2023,2024,"Jackson Lanzing; Collin Kelly",Robert Carey,"Batwoman; Luke Fox; Outsiders",11,exact
+dc-catwoman-ram-v,Catwoman by Ram V,DC,Mainline,2018,2021,Ram V,"Joelle Jones; Fernando Blanco","Catwoman; Selina Kyle",29,approximate_run
+dc-catwoman-lonely-city,Catwoman: Lonely City,DC,Black Label,2021,2022,Cliff Chiang,Cliff Chiang,"Catwoman; Killer Croc; Poison Ivy",4,exact
+dc-harley-conner,Harley Quinn by Conner and Palmiotti,DC,Mainline,2013,2018,"Amanda Conner; Jimmy Palmiotti","Chad Hardin; John Timms","Harley Quinn; Poison Ivy",75,across_series
+dc-harleen,Harleen,DC,Black Label,2019,2020,Stjepan Sejic,Stjepan Sejic,"Harley Quinn; Joker",3,exact
+dc-poison-ivy-cycle,Poison Ivy: Cycle of Life and Death,DC,Mainline,2016,2016,Amy Chu,Clay Mann,"Poison Ivy; Gotham Botanical Gardens",6,exact
+dc-birds-prey-thompson,Birds of Prey by Kelly Thompson,DC,Mainline,2023,,Kelly Thompson,Leonardo Romero,"Birds of Prey; Black Canary; Big Barda",,ongoing
+dc-gotham-academy,Gotham Academy,DC,Mainline,2014,2016,"Becky Cloonan; Brenden Fletcher",Karl Kerschl,"Olive Silverlock; Maps Mizoguchi; Gotham Academy",18,exact_original_series
+dc-arkham-order,Arkham City: The Order of the World,DC,Mainline,2021,2022,Dan Watters,Dani,"Doctor Joy; Arkham Patients",6,exact
+dc-detective-tomasi,Detective Comics by Peter J. Tomasi,DC,Mainline,2018,2021,Peter J. Tomasi,"Doug Mahnke; Brad Walker","Batman; Damian Wayne; Two-Face",29,approximate_run
+dc-batman-eternal,Batman Eternal,DC,Mainline,2014,2015,"Scott Snyder; James Tynion IV; Tim Seeley; Ray Fawkes; Kyle Higgins","Jason Fabok; Dustin Nguyen; Mikel Janin","Batman; Bat-Family; James Gordon",52,exact
+dc-batman-signal,Batman and the Signal,DC,Mainline,2018,2018,"Scott Snyder; Tony Patrick",Cully Hamner,"Signal; Duke Thomas; Batman",3,exact
+dc-superman-son-kal,Superman: Son of Kal-El,DC,Mainline,2021,2022,Tom Taylor,John Timms,"Superman; Jon Kent; Jay Nakamura",18,exact
+dc-action-jurgens,Action Comics by Dan Jurgens,DC,Mainline,2016,2018,Dan Jurgens,"Patrick Zircher; Tyler Kirkham","Superman; Lois Lane; Jon Kent",50,approximate_numbering
+dc-super-sons,Super Sons,DC,Mainline,2017,2018,Peter J. Tomasi,Jorge Jimenez,"Superboy; Jon Kent; Robin; Damian Wayne",16,exact
+dc-adventures-jon-kent,Adventures of Superman: Jon Kent,DC,Mainline,2023,2023,Tom Taylor,Clayton Henry,"Superman; Jon Kent; Ultraman",6,exact
+dc-supergirl-gates,Supergirl by Sterling Gates and Jamal Igle,DC,Mainline,2008,2011,Sterling Gates,Jamal Igle,"Supergirl; Lana Lang; Reactron",34,approximate_run
+dc-supergirl-andreyko,Supergirl by Marc Andreyko,DC,Mainline,2018,2020,Marc Andreyko,Kevin Maguire,"Supergirl; Krypto; Rogol Zaar",20,approximate
+dc-power-girl,Power Girl by Palmiotti Gray and Conner,DC,Mainline,2009,2011,"Jimmy Palmiotti; Justin Gray",Amanda Conner,"Power Girl; Terra",27,exact
+dc-wonder-woman-cloonan,Wonder Woman by Cloonan and Conrad,DC,Mainline,2021,2023,"Becky Cloonan; Michael W. Conrad","Travis Moore; Emanuela Lupacchino","Wonder Woman; Siegfried; Cheetah",36,approximate
+dc-nubia-amazons,Nubia and the Amazons,DC,Mainline,2021,2022,"Stephanie Williams; Vita Ayala",Alitha Martinez,"Nubia; Amazons",6,exact
+dc-amazons-attack,Amazons Attack,DC,Mainline,2023,2024,Josie Campbell,Vasco Georgiev,"Nubia; Mary Marvel; Amazons",6,exact
+dc-green-lantern-rayner,Green Lantern: Kyle Rayner by Ron Marz,DC,Mainline,1994,2000,Ron Marz,Darryl Banks,"Green Lantern; Kyle Rayner; Jade",60,approximate_run
+dc-new-guardians,Green Lantern: New Guardians,DC,Mainline,2011,2015,Tony Bedard,Tyler Kirkham,"Kyle Rayner; New Guardians; Carol Ferris",40,series_length
+dc-sinestro,Sinestro by Cullen Bunn,DC,Mainline,2014,2016,Cullen Bunn,"Dale Eaglesham; Brad Walker","Sinestro; Sinestro Corps",23,exact
+dc-red-lanterns,Red Lanterns by Charles Soule,DC,Mainline,2013,2015,Charles Soule,Alessandro Vitti,"Red Lanterns; Guy Gardner; Atrocitus",20,approximate_run
+dc-impulse,Impulse by Mark Waid and Humberto Ramos,DC,Mainline,1995,1997,Mark Waid,Humberto Ramos,"Impulse; Bart Allen; Max Mercury",27,exact_run
+dc-flashpoint,Flashpoint,DC,Mainline,2011,2011,Geoff Johns,Andy Kubert,"Flash; Barry Allen; Thomas Wayne",5,exact
+dc-flash-rebirth,The Flash: Rebirth,DC,Mainline,2009,2010,Geoff Johns,Ethan Van Sciver,"Flash; Barry Allen; Wally West",6,exact
+dc-one-minute-war,The Flash: One-Minute War,DC,Mainline,2023,2023,Jeremy Adams,"Roger Cruz; Fernando Pasarin","Flash Family; Wally West; Barry Allen",8,core_chapters
+dc-aquaman-sub-diego,Aquaman: Sub Diego,DC,Mainline,2004,2006,Will Pfeifer,Patrick Gleason,"Aquaman; Lorena Marquez; Sub Diego",19,approximate_run
+dc-aquaman-busiek,Aquaman: Sword of Atlantis,DC,Mainline,2006,2007,Kurt Busiek,Butch Guice,"Aquaman; Arthur Joseph Curry; Orin",14,exact_run
+dc-aquaman-becoming,Aquaman: The Becoming,DC,Mainline,2021,2022,Brandon Thomas,Diego Olortegui,"Aqualad; Jackson Hyde",6,exact
+dc-mera-queen,Mera: Queen of Atlantis,DC,Mainline,2018,2018,Dan Abnett,Lan Medina,"Mera; Orm",6,exact
+marvel-immortal-thor,Immortal Thor,Marvel,Mainline,2023,,Al Ewing,"Martin Coccolo; Jan Bazaldua","Thor; Loki; Utgard",,ongoing
+marvel-incredible-hulk-pkj,The Incredible Hulk by Phillip Kennedy Johnson,Marvel,Mainline,2023,,Phillip Kennedy Johnson,Nic Klein,"Hulk; Bruce Banner; Charlie Tidwell",,ongoing
+marvel-she-hulk-rowell,She-Hulk by Rainbow Rowell,Marvel,Mainline,2022,2024,Rainbow Rowell,"Roge Antonio; Andres Genolet","She-Hulk; Jack of Hearts",25,across_series
+marvel-captain-marvel-thompson,Captain Marvel by Kelly Thompson,Marvel,Mainline,2019,2023,Kelly Thompson,"Carmen Carnero; Lee Garbett","Captain Marvel; Carol Danvers; Binary",50,exact
+marvel-ms-marvel-magnificent,The Magnificent Ms. Marvel,Marvel,Mainline,2019,2021,Saladin Ahmed,Minkyu Jung,"Ms. Marvel; Kamala Khan",18,exact
+marvel-ironheart,Ironheart,Marvel,Mainline,2018,2020,Eve L. Ewing,Luciano Vecchio,"Ironheart; Riri Williams",12,exact
+marvel-america,America,Marvel,Mainline,2017,2018,Gabby Rivera,Joe Quinones,"America Chavez; Prodigy",12,exact
+marvel-unstoppable-wasp,The Unstoppable Wasp,Marvel,Mainline,2017,2019,Jeremy Whitley,Elsa Charretier,"Wasp; Nadia van Dyne; G.I.R.L.",18,across_series
+marvel-wasp-ewing,Wasp by Al Ewing,Marvel,Mainline,2023,2023,Al Ewing,Kasia Nie,"Wasp; Janet van Dyne; Nadia van Dyne",4,exact
+marvel-ant-man-ewing,Ant-Man by Al Ewing,Marvel,Mainline,2022,2022,Al Ewing,Tom Reilly,"Ant-Man; Hank Pym; Scott Lang; Eric O'Grady",4,exact
+marvel-avengers-academy,Avengers Academy,Marvel,Mainline,2010,2012,Christos Gage,"Mike McKone; Tom Raney","Avengers Academy; Hazmat; Reptil",39,exact
+marvel-avengers-initiative,Avengers: The Initiative,Marvel,Mainline,2007,2010,"Dan Slott; Christos Gage",Stefano Caselli,"Avengers Initiative; Trauma; Cloud 9",35,exact
+marvel-avengers-arena,Avengers Arena,Marvel,Mainline,2012,2013,Dennis Hopeless,Kev Walker,"Avengers Academy; Runaways; Darkhawk",18,exact
+marvel-avengers-ai,Avengers A.I.,Marvel,Mainline,2013,2014,Sam Humphries,Andre Lima Araujo,"Avengers A.I.; Vision; Hank Pym",12,exact
+marvel-savage-avengers-duggan,Savage Avengers by Gerry Duggan,Marvel,Mainline,2019,2022,Gerry Duggan,"Mike Deodato Jr.; Patrick Zircher","Savage Avengers; Conan; Punisher; Wolverine",28,exact
+marvel-savage-avengers-pepose,Savage Avengers by David Pepose,Marvel,Mainline,2022,2023,David Pepose,Carlos Magno,"Savage Avengers; Conan; Elektra",10,exact
+marvel-black-panther-hudlin,Black Panther by Reginald Hudlin,Marvel,Mainline,2005,2008,Reginald Hudlin,"John Romita Jr.; Scot Eaton","Black Panther; Storm; Wakanda",41,approximate_run
+marvel-shuri,Shuri,Marvel,Mainline,2018,2019,"Nnedi Okorafor; Vita Ayala",Leonardo Romero,"Shuri; Black Panther; Wakanda",10,exact
+marvel-world-wakanda,Black Panther: World of Wakanda,Marvel,Mainline,2016,2017,"Roxane Gay; Ta-Nehisi Coates",Alitha Martinez,"Ayo; Aneka; Dora Milaje",6,exact
+marvel-rise-black-panther,Rise of the Black Panther,Marvel,Mainline,2018,2018,Evan Narcisse,Javier Pina,"Black Panther; Wakanda; Namor",6,exact
+marvel-killmonger,Killmonger,Marvel,Mainline,2018,2019,Bryan Hill,Juan Ferreyra,"Killmonger; Erik Stevens",5,exact
+marvel-agents-wakanda,Black Panther and the Agents of Wakanda,Marvel,Mainline,2019,2020,Jim Zub,Lan Medina,"Agents of Wakanda; Black Panther; Wasp",8,exact
+marvel-cap-sentinel,Captain America: Sentinel of Liberty,Marvel,Mainline,2022,2023,"Jackson Lanzing; Collin Kelly",Carmen Carnero,"Captain America; Bucky Barnes; Outer Circle",6,initial_arc
+marvel-cap-symbol,Captain America: Symbol of Truth,Marvel,Mainline,2022,2023,Tochi Onyebuchi,R. B. Silva,"Captain America; Sam Wilson; Falcon",14,exact
+marvel-us-captain-america,The United States of Captain America,Marvel,Mainline,2021,2021,Christopher Cantwell,Dale Eaglesham,"Captain America; Steve Rogers; Sam Wilson",5,exact
+marvel-sam-wilson-cap,Captain America: Sam Wilson,Marvel,Mainline,2015,2017,Nick Spencer,Daniel Acuna,"Captain America; Sam Wilson; Misty Knight",24,exact
+marvel-black-widow-thompson,Black Widow by Kelly Thompson,Marvel,Mainline,2020,2022,Kelly Thompson,Elena Casagrande,"Black Widow; Natasha Romanoff; Yelena Belova",15,exact
+marvel-winter-soldier-higgins,Winter Soldier: The Bitter March,Marvel,Mainline,2014,2014,Rick Remender,Roland Boschi,"Winter Soldier; Nick Fury; Ran Shen",5,exact
+marvel-falcon-winter,Falcon and Winter Soldier,Marvel,Mainline,2020,2020,Derek Landy,Federico Vicentini,"Falcon; Winter Soldier",5,exact
+marvel-mockingbird,Mockingbird,Marvel,Mainline,2016,2016,Chelsea Cain,Kate Niemczyk,"Mockingbird; Bobbi Morse",8,exact
+marvel-secret-warriors-hickman,Secret Warriors by Hickman and Caselli,Marvel,Mainline,2009,2011,Jonathan Hickman,Stefano Caselli,"Secret Warriors; Nick Fury; Daisy Johnson",28,exact
+marvel-secret-warriors-rosenberg,Secret Warriors by Matthew Rosenberg,Marvel,Mainline,2017,2018,Matthew Rosenberg,Javier Garron,"Secret Warriors; Quake; Ms. Marvel",12,exact
+marvel-shield-hickman,S.H.I.E.L.D. by Hickman and Weaver,Marvel,Mainline,2010,2018,Jonathan Hickman,Dustin Weaver,"S.H.I.E.L.D.; Leonardo da Vinci; Isaac Newton",12,across_series
+marvel-shield-waid,S.H.I.E.L.D. by Mark Waid,Marvel,Mainline,2014,2016,Mark Waid,"Carlos Pacheco; Humberto Ramos; Chris Sprouse","S.H.I.E.L.D.; Phil Coulson; Melinda May",12,exact
+marvel-fury-peacemaker,Fury: Peacemaker,Marvel,MAX,2006,2006,Garth Ennis,Darick Robertson,"Nick Fury; World War II",6,exact
+marvel-punisher-born,Born,Marvel,MAX,2003,2003,Garth Ennis,Darick Robertson,"Punisher; Frank Castle",4,exact
+marvel-punisher-platoon,The Punisher: The Platoon,Marvel,MAX,2017,2018,Garth Ennis,Goran Parlov,"Punisher; Frank Castle; Vietnam War",6,exact
+marvel-punisher-soviet,Punisher: Soviet,Marvel,MAX,2019,2020,Garth Ennis,Jacen Burrows,"Punisher; Valery Stepanovich",6,exact
+marvel-punisher-war-journal,Punisher War Journal by Matt Fraction,Marvel,Mainline,2006,2009,Matt Fraction,Ariel Olivetti,"Punisher; Frank Castle; G. W. Bridge",26,exact
+marvel-elektra-blackman,Elektra by Haden Blackman and Del Mundo,Marvel,Mainline,2014,2015,W. Haden Blackman,Michael Del Mundo,"Elektra; Bloody Lips",11,exact
+marvel-jessica-blind-spot,Jessica Jones: Blind Spot,Marvel,Mainline,2020,2020,Kelly Thompson,Mattia de Iulis,"Jessica Jones; Luke Cage; Elsa Bloodstone",6,exact
+marvel-luke-cage-town,Luke Cage: Town Without Pity,Marvel,MAX,2010,2010,John Arcudi,Eric Canete,"Luke Cage; Philadelphia",5,exact
+marvel-cage,Cage!,Marvel,MAX,2016,2017,Genndy Tartakovsky,Stephen DeStefano,"Luke Cage; Iron Fist",4,exact
+marvel-power-man-iron-fist,Power Man and Iron Fist by David Walker,Marvel,Mainline,2016,2017,David F. Walker,Sanford Greene,"Luke Cage; Iron Fist",15,exact
+marvel-heroes-hire,Heroes for Hire by Abnett and Lanning,Marvel,Mainline,2010,2011,"Dan Abnett; Andy Lanning",Brad Walker,"Heroes for Hire; Misty Knight; Paladin",12,exact
+marvel-daughters-dragon,Daughters of the Dragon,Marvel,Marvel Knights,2006,2006,"Justin Gray; Jimmy Palmiotti",Khari Evans,"Misty Knight; Colleen Wing",6,exact
+marvel-shang-chi-yang,Shang-Chi by Gene Luen Yang,Marvel,Mainline,2021,2022,Gene Luen Yang,Dike Ruan,"Shang-Chi; Five Weapons Society",12,exact
+marvel-shang-chi-max,Shang-Chi: Master of Kung Fu,Marvel,MAX,2002,2003,Doug Moench,Paul Gulacy,"Shang-Chi; Fu Manchu",6,exact
+marvel-moon-knight-bendis,Moon Knight by Bendis and Maleev,Marvel,Mainline,2011,2012,Brian Michael Bendis,Alex Maleev,"Moon Knight; Marc Spector; Echo",12,exact
+marvel-moon-knight-wood,Moon Knight by Brian Wood and Smallwood,Marvel,Mainline,2014,2015,Brian Wood,Greg Smallwood,"Moon Knight; Marc Spector",12,exact_run
+marvel-vengeance-moon-knight,Vengeance of the Moon Knight,Marvel,Mainline,2009,2010,Gregg Hurwitz,Jerome Opena,"Moon Knight; Marc Spector",10,exact
+marvel-ghost-rider-way,Ghost Rider by Daniel Way,Marvel,Mainline,2006,2008,Daniel Way,"Mark Texeira; Javier Saltares","Ghost Rider; Johnny Blaze",19,exact_run
+marvel-ghost-rider-brisson,Ghost Rider by Ed Brisson,Marvel,Mainline,2019,2020,Ed Brisson,Aaron Kuder,"Ghost Rider; Johnny Blaze; Danny Ketch",7,exact
+marvel-spirits-vengeance,Spirits of Vengeance: Spirit Rider,Marvel,Mainline,2021,2021,Taboo,Paul Davidson,"Spirit Rider; Kushala",1,one_shot
+marvel-doctor-voodoo,Doctor Voodoo: Avenger of the Supernatural,Marvel,Mainline,2009,2010,Rick Remender,Jefte Palo,"Doctor Voodoo; Brother Voodoo",5,exact
+marvel-death-doctor-strange,The Death of Doctor Strange,Marvel,Mainline,2021,2022,Jed MacKay,Lee Garbett,"Doctor Strange; Clea",5,core_series
+marvel-strange-mackay,Strange by Jed MacKay,Marvel,Mainline,2022,2023,Jed MacKay,Marcelo Ferreira,"Clea; Doctor Strange; Harvestman",10,exact
+marvel-doctor-strange-mackay,Doctor Strange by Jed MacKay,Marvel,Mainline,2023,2024,Jed MacKay,Pasqual Ferry,"Doctor Strange; Clea; General Strange",18,exact
+marvel-scarlet-witch-orlando,Scarlet Witch by Steve Orlando,Marvel,Mainline,2023,2024,Steve Orlando,Sara Pichelli,"Scarlet Witch; Darcy Lewis",10,exact
+marvel-quicksilver,Quicksilver: No Surrender,Marvel,Mainline,2018,2018,Saladin Ahmed,Eric Nguyen,"Quicksilver; Pietro Maximoff",5,exact
+marvel-magneto-testament,X-Men: Magneto Testament,Marvel,Mainline,2008,2009,Greg Pak,Carmine Di Giandomenico,"Magneto; Max Eisenhardt",5,exact
+marvel-magneto-bunn,Magneto by Cullen Bunn,Marvel,Mainline,2014,2015,Cullen Bunn,"Gabriel Hernandez Walta; Javier Fernandez",Magneto,21,exact
+marvel-xterminators,X-Terminators,Marvel,Mainline,2022,2023,Leah Williams,Carlos Gomez,"X-Terminators; Dazzler; Boom-Boom; Jubilee",5,exact
+marvel-xmen-red-taylor,X-Men Red by Tom Taylor,Marvel,Mainline,2018,2019,Tom Taylor,Mahmud Asrar,"X-Men; Jean Grey; Nightcrawler",11,exact
+marvel-xmen-blue,X-Men Blue by Cullen Bunn,Marvel,Mainline,2017,2018,Cullen Bunn,Jorge Molina,"X-Men Blue; Jean Grey; Cyclops",36,exact
+marvel-mr-mrs-x,Mr. and Mrs. X,Marvel,Mainline,2018,2019,Kelly Thompson,Oscar Bazaldua,"Rogue; Gambit",12,exact
+marvel-rogue-gambit,Rogue and Gambit,Marvel,Mainline,2018,2018,Kelly Thompson,Pere Perez,"Rogue; Gambit",5,exact
+marvel-excalibur-howard,Excalibur by Tini Howard,Marvel,Mainline,2019,2021,Tini Howard,Marcus To,"Excalibur; Captain Britain; Apocalypse",26,exact
+marvel-knights-x,Knights of X,Marvel,Mainline,2022,2022,Tini Howard,Bob Quinn,"Knights of X; Captain Britain; Gambit",5,exact
+marvel-way-x,Way of X,Marvel,Mainline,2021,2021,Simon Spurrier,Bob Quinn,"Nightcrawler; Legion; Krakoa",5,exact
+marvel-legion-x,Legion of X,Marvel,Mainline,2022,2023,Simon Spurrier,Jan Bazaldua,"Nightcrawler; Legion; Pixie",10,exact
+marvel-sabretooth,Sabretooth,Marvel,Mainline,2022,2022,Victor LaValle,Leonard Kirk,"Sabretooth; Victor Creed; Krakoa",5,exact
+marvel-sabretooth-exiles,Sabretooth and the Exiles,Marvel,Mainline,2022,2023,Victor LaValle,Leonard Kirk,"Sabretooth; Third Eye; Nekra",5,exact
+marvel-new-mutants-ayala,New Mutants by Vita Ayala,Marvel,Mainline,2020,2022,Vita Ayala,Rod Reis,"New Mutants; Dani Moonstar; Karma",18,approximate_run
+marvel-new-mutants-dead-souls,New Mutants: Dead Souls,Marvel,Mainline,2018,2018,Matthew Rosenberg,Adam Gorham,"New Mutants; Magik; Rictor",6,exact
+marvel-generation-x-strain,Generation X by Christina Strain,Marvel,Mainline,2017,2018,Christina Strain,Amilcar Pinna,"Generation X; Jubilee; Quentin Quire",9,exact
+marvel-wolverine-mystique,Wolverine: Get Mystique,Marvel,Mainline,2008,2008,Jason Aaron,Ron Garney,"Wolverine; Mystique",4,exact
+marvel-wolverine-rucka,Wolverine by Greg Rucka,Marvel,Mainline,2003,2004,Greg Rucka,Darick Robertson,"Wolverine; Nightcrawler",19,exact_run
+marvel-x23-target,X-23: Target X,Marvel,Mainline,2006,2007,"Craig Kyle; Chris Yost",Mike Choi,"X-23; Laura Kinney; Captain America",6,exact
+marvel-old-man-logan-lemire,Old Man Logan by Jeff Lemire,Marvel,Mainline,2016,2017,Jeff Lemire,Andrea Sorrentino,"Old Man Logan; Wolverine",24,exact_run
+marvel-old-man-logan-brisson,Old Man Logan by Ed Brisson,Marvel,Mainline,2017,2018,Ed Brisson,Mike Deodato Jr.,"Old Man Logan; Wolverine",26,approximate_run
+marvel-dead-man-logan,Dead Man Logan,Marvel,Mainline,2018,2019,Ed Brisson,Mike Henderson,"Old Man Logan; Wolverine",12,exact
+marvel-daken,Daken: Dark Wolverine,Marvel,Mainline,2010,2012,"Marjorie Liu; Daniel Way",Giuseppe Camuncoli,"Daken; Wolverine",23,exact
+marvel-astonishing-soule,Astonishing X-Men by Charles Soule,Marvel,Mainline,2017,2018,Charles Soule,"Jim Cheung; Mike Deodato Jr.","X-Men; Charles Xavier; Psylocke",17,exact
+marvel-xforce-kyle-yost,X-Force by Kyle and Yost,Marvel,Mainline,2008,2010,"Craig Kyle; Chris Yost",Clayton Crain,"X-Force; Wolverine; X-23",28,exact
+marvel-xforce-percy,X-Force by Benjamin Percy,Marvel,Mainline,2019,2024,Benjamin Percy,Joshua Cassara,"X-Force; Beast; Wolverine",50,exact
+marvel-guardians-ewing,Guardians of the Galaxy by Al Ewing,Marvel,Mainline,2020,2021,Al Ewing,Juann Cabal,"Guardians of the Galaxy; Star-Lord; Nova",18,exact
+marvel-guardians-cates,Guardians of the Galaxy by Donny Cates,Marvel,Mainline,2019,2019,Donny Cates,Geoff Shaw,"Guardians of the Galaxy; Star-Lord; Cosmic Ghost Rider",12,exact
+marvel-thanos-cates,Thanos Wins,Marvel,Mainline,2017,2018,Donny Cates,Geoff Shaw,"Thanos; Cosmic Ghost Rider; Silver Surfer",6,story_arc
+marvel-thanos-lemire,Thanos by Jeff Lemire,Marvel,Mainline,2016,2017,Jeff Lemire,Mike Deodato Jr.,"Thanos; Thane",12,exact_run
+marvel-cosmic-ghost-rider,Cosmic Ghost Rider,Marvel,Mainline,2018,2019,Donny Cates,Dylan Burnett,"Cosmic Ghost Rider; Frank Castle",5,exact
+marvel-rocket,Rocket,Marvel,Mainline,2017,2017,Al Ewing,Adam Gorham,"Rocket Raccoon; Technet",6,exact
+marvel-groot,Groot,Marvel,Mainline,2015,2015,Jeff Loveness,Brian Kesinger,"Groot; Rocket Raccoon",6,exact
+marvel-annihilators,Annihilators,Marvel,Mainline,2011,2011,"Dan Abnett; Andy Lanning",Tan Eng Huat,"Annihilators; Silver Surfer; Beta Ray Bill",4,exact
+marvel-thanos-imperative,The Thanos Imperative,Marvel,Mainline,2010,2011,"Dan Abnett; Andy Lanning",Miguel Sepulveda,"Guardians of the Galaxy; Nova; Thanos",6,core_series
+marvel-war-kings,War of Kings,Marvel,Mainline,2009,2009,"Dan Abnett; Andy Lanning",Paul Pelletier,"Inhumans; Shi'ar; Guardians of the Galaxy",6,core_series
+marvel-realm-kings,Realm of Kings,Marvel,Mainline,2009,2010,"Dan Abnett; Andy Lanning",Leonardo Manco,"Inhumans; Guardians of the Galaxy; Cancerverse",5,core_series
+marvel-empyre,Empyre,Marvel,Mainline,2020,2020,"Al Ewing; Dan Slott",Valerio Schiti,"Avengers; Fantastic Four; Kree; Skrulls",6,core_series
+marvel-infinity,Infinity,Marvel,Mainline,2013,2013,Jonathan Hickman,"Jim Cheung; Jerome Opena; Dustin Weaver","Avengers; Thanos; Black Order",6,core_series
+marvel-captain-britain-mi13,Captain Britain and MI13,Marvel,Mainline,2008,2009,Paul Cornell,Leonard Kirk,"Captain Britain; MI13; Black Knight; Blade",15,exact
